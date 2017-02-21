@@ -1,25 +1,26 @@
 ---
-title: Cost categories used in production routing | Microsoft Docs
+title: Cost categories used in production routing
 description: This article provides information about cost categories that apply to manufacturing environments that use routing.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-04-05 14:44:12
+ms.date: 2016-04-05 14 - 44 - 12
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ProjCategory, RouteCostCategoryPrice
+ms.search.form: ProjCategory, RouteCostCategoryPrice
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 78153
-ms.assetid: 575e929e-bcc7-4238-ae84-5b2b4721fa10
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: c22fc217-7347-41c5-b926-7f8f05d28d3c
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 7d2a9cc71f8d942b4ae79870078999543cbcbbac
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 39331dc3315502768ae963368ef3e9687985c83c
 
 
 ---

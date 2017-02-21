@@ -1,23 +1,24 @@
 ---
-title: Organizations and organizational hierarchies | Microsoft Docs
+title: Organizations and organizational hierarchies
 description: An organization is a group of people who are working together to carry out a business process or achieve a goal. Organizational hierarchies represent the relationships between the organizations that make up your business.
 author: sericks007
 manager: AnnBe
-ms.date: 2015-12-04 17:25:25
+ms.date: 2015-12-04 17 - 25 - 25
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 17291
-ms.assetid: 175691e2-5bb6-41d8-a0cb-06d4a4a75e7d
-ms.region: Global
+ms.assetid: 3b9b620f-cf81-4313-b1b0-c8eed1cf8b90
+ms.search.region: Global
 ms.author: sericks
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: b0ee957fc6c846cb1f29ec6288d8b266ebffcd3e
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: b48c0f3faba9cf892e548e9769be0bb8b62ac004
 
 
 ---
@@ -53,7 +54,7 @@ A team is an organization in which the members share a common responsibility, in
 Organizational hierarchies
 --------------------------
 
-Set up organizational hierarchies to view and report on your business from different perspectives. For example, you can set up a hierarchy of legal entities for tax, legal, or statutory reporting. Set up a hierarchy that is based on operating units to report financial information that is not legally required, but that is used for internal control. For example, you can create a purchasing hierarchy to control purchasing policies, rules, and business processes. Each hierarchy is assigned a purpose in Microsoft Dynamics 365 for Operations. The purpose of a hierarchy determines the types of organizations that can be included in the hierarchy. The purpose also determines which application scenarios a hierarchy can be used in. Organizations in a hierarchy can share parameters, policies, and transactions. An organization can inherit or override the parameters of its parent organization. However, shared master data, such as products and address books, applies to the whole organization and cannot be overridden for individual organizations. Creating organizations and hierarchies requires careful planning. For more information, see [Plan the organizational hierarchy](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/plan-the-organizational-hierarchy).
+Set up organizational hierarchies to view and report on your business from different perspectives. For example, you can set up a hierarchy of legal entities for tax, legal, or statutory reporting. Set up a hierarchy that is based on operating units to report financial information that is not legally required, but that is used for internal control. For example, you can create a purchasing hierarchy to control purchasing policies, rules, and business processes. Each hierarchy is assigned a purpose in Microsoft Dynamics 365 for Operations. The purpose of a hierarchy determines the types of organizations that can be included in the hierarchy. The purpose also determines which application scenarios a hierarchy can be used in. Organizations in a hierarchy can share parameters, policies, and transactions. An organization can inherit or override the parameters of its parent organization. However, shared master data, such as products and address books, applies to the whole organization and cannot be overridden for individual organizations. Creating organizations and hierarchies requires careful planning. For more information, see [Plan the organizational hierarchy](plan-organizational-hierarchy.md).
 
 
 

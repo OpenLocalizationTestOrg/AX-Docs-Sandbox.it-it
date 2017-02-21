@@ -1,23 +1,24 @@
 ---
-title: Product configuration home page | Microsoft Docs
+title: Product configuration home page
 description: This topic provides a list of the Help topics and other resources that are available for Product configuration.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-10-11 20:42:31
+ms.date: 2016-10-11 20 - 42 - 31
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 121
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 204324
-ms.assetid: ef34b0a0-e173-410b-96ee-0c21dd8c8090
-ms.region: Global
+ms.assetid: 6231ad72-e31e-468b-9452-00651beb22d3
+ms.search.region: Global
 ms.author: yuyus
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 3ebab3899f1a36bd745d5b2266e631685dd05285
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 44d8e68f784dc958b12931656caf0d4f7485d386
 
 
 ---
@@ -30,15 +31,15 @@ This topic provides a list of the Help topics and other resources that are avail
 -------------------------
 
 -   [Product configurator in Microsoft Dynamics AX](https://mbs.microsoft.com/customersource/northamerica/AX/learning/presentations/DynamicsTechnicalConference16) (this video requires a CustomerSource account)
--   [Building a product configuration model](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/product-information-management/building-a-product-configuration-model)
--   [Key concepts in product configuration models](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/product-information-management/key-concepts-in-product-configuration-models)
--   [Setting up and creating a product configuration model](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/product-information-management/setting-up-and-maintaining-a-product-configuration-model)
--   [Configuration rules](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/product-information-management/configuration-rules)
--   [Calculations for product configuration models](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/product-information-management/calculations-for-product-configuration-models)
--   [Dimension-based product configuration](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/product-information-management/dimension-based-product-configuration)
--   [Expression constraints and table constraints in product configuration models](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/expression-constraints-and-table-constraints-in-product-configuration-models)
--   [System-defined and user-defined table constraints](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/product-information-management/system-defined-and-user-defined-table-constraints)
--   [Reusing product configurations](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/product-information-management/reusing-product-configurations)
+-   [Building a product configuration model](build-product-configuration-model.md)
+-   [Key concepts in product configuration models](product-configuration-models.md)
+-   [Setting up and creating a product configuration model](set-up-maintain-product-configuration-model.md)
+-   [Configuration rules](configuration-rules.md)
+-   [Calculations for product configuration models](calculate-product-configuration-models.md)
+-   [Dimension-based product configuration](dimension-based-product-configuration.md)
+-   [Expression constraints and table constraints in product configuration models](expression-constraints-table-constraints-product-configuration-models.md)
+-   [System-defined and user-defined table constraints](system-defined-user-defined-table-constraints.md)
+-   [Reusing product configurations](reuse-product-configurations.md)
 
 ## <a name="work-with-dimensionbased-product-configurations"></a>Work with dimensionbased product configurations
 The following topics provide information about how to manage dimension-based product configurations. The tasks are listed in sequential order.

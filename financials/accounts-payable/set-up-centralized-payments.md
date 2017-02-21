@@ -1,24 +1,25 @@
 ---
-title: Set up centralized payments | Microsoft Docs
+title: Set up centralized payments
 description: 
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-03-08 17:50:17
+ms.date: 2016-03-08 17 - 50 - 17
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerInterCompany
+ms.search.form: LedgerInterCompany
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 62243
-ms.assetid: 067909a0-adf4-4855-8b9b-c03a2e2f5a41
-ms.region: Global
+ms.assetid: 5ec1a1a4-fa47-4f89-81fc-ffd20bf2d394
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: c9e256bdc938eca26fe61e5394f20fcaf5fc1866
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 12fc89f4238326ad99504fdae7e36d3cc073cf3b
 
 
 ---

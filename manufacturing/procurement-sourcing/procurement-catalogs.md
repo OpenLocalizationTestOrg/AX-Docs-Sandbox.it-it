@@ -1,24 +1,25 @@
 ---
-title: Procurement catalogs | Microsoft Docs
+title: Procurement catalogs
 description: This article describes, at a high level, how purchasing professionals can set up and maintain procurement catalogs. Procurement catalogs define the items and services that company employees can order for internal use.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-09-10 08:13:02
+ms.date: 2015-09-10 08 - 13 - 02
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CatProcureCatalogEdit, CatProcureCatalogListPage
+ms.search.form: CatProcureCatalogEdit, CatProcureCatalogListPage
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 2214
-ms.assetid: 0f8e1256-33dd-47de-8e60-e60d68980f4b
-ms.region: Global
+ms.assetid: f645bd4f-a758-4ce2-a0ad-222926ae9809
+ms.search.region: Global
 ms.author: mkirknel
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 0500383619b8c9bb31dc0bcd4133e745ad3c793f
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 292131198875cba0e5c22dac47125235e7332857
 
 
 ---

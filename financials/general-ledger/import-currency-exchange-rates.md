@@ -1,24 +1,25 @@
 ---
-title: Import currency exchange rates | Microsoft Docs
+title: Import currency exchange rates
 description: "If a legal entity has received invoices in foreign currencies, it’s necessary to convert the foreign currency into the local currency. This means that up-to-date exchange rates for different currencies are required. This topic provides an overview of the required settings and processing for importing foreign exchange reference rates published over the Internet by the exchange rate providers, such as the European Central Bank and the Central Bank of Russia."
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-02 21:05:37
+ms.date: 2016-12-02 21 - 05 - 37
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ExchangeRateProviderConfiguration
+ms.search.form: ExchangeRateProviderConfiguration
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 261374
-ms.assetid: 0bcc76f8-3e6b-4ccd-a661-ef5a70488ad8
-ms.region: Global
+ms.assetid: db32d21d-9a8a-4aa8-80e8-a1d1abceff27
+ms.search.region: Global
 ms.author: epopov
+ms.dyn365.intro: Nov-16
+ms.dyn365.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 68cf4dd15544a1c2fe15ec11aaf659a1f5e02298
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 3d0ab8044b10648a7794f34769710aebbd292bc4
 
 
 ---

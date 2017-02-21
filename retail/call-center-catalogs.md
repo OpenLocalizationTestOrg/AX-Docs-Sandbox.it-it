@@ -1,24 +1,26 @@
 ---
-title: Call center catalogs | Microsoft Docs
+title: Call center catalogs
 description: "This article describes the call center–specific functionality for catalogs in Microsoft Dynamics 365 for Operations."
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-03 22:20:47
+ms.date: 2015-12-03 22 - 20 - 47
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 16231
-ms.assetid: 46579e71-33fe-4b9b-89cb-bb3044ab3c08
-ms.region: global
-ms.industry: Retail
+ms.assetid: 349d572c-3759-4212-8728-5736bc0fd2fc
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: josaw
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 00a96a93186b438335fc2ab7431ec763267d4211
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 203be7062189e4329fda8aeb106b15e90d9956a4
 
 
 ---

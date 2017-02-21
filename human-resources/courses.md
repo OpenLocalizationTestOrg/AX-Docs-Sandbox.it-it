@@ -1,24 +1,26 @@
 ---
-title: Set up training courses | Microsoft Docs
+title: Set up training courses
 description: Human resources administrators and managers can use the courses features to maintain information about the training that&quot;s offered to workers.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-09-15 18:13:01
+ms.date: 2015-09-15 18 - 13 - 01
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: HcmCourseType, HcmCourseTypeGroup, HRMCourseTable
+ms.search.form: HcmCourseType, HcmCourseTypeGroup, HRMCourseTable
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 7532
-ms.assetid: c118631e-1626-41cb-a9fb-aed41dce8b22
-ms.region: Global
+ms.assetid: 4b2f1d22-f296-4062-ae7a-7d10f9538232
+ms.search.region: Global
 ms.author: twheeloc
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: a7f56542fe8bf99ca849d9dcec59744b2cc8dd11
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 43e28b8b3653cef586b4bc457c5a19ea2b8a4ad7
 
 
 ---

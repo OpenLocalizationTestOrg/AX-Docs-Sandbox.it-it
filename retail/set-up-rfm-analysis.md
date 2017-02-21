@@ -1,24 +1,25 @@
 ---
-title: Set up RFM analysis | Microsoft Docs
+title: Set up RFM analysis
 description: This topic explains how to set up a Recency, Frequency, and Monetary (RFM) analysis of your customers.
 author: josaw1
 manager: AnnBe
-ms.date: 2016-04-07 15:11:25
+ms.date: 2016-04-07 15 - 11 - 25
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 2041
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 78943
-ms.assetid: 934d60df-7d55-41a2-bcea-9e2729d9d906
-ms.region: global
-ms.industry: Retail
+ms.assetid: 60326817-f8d3-4de9-8c91-d394cec6cbf5
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: josaw
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 0953ca6790f87d785df3908ceae41cba42834497
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: f0686b6e6f2583f1dedce8bf53104b2c48b7b6b5
 
 
 ---

@@ -1,25 +1,26 @@
 ---
-title: Standard cost conversion overview | Microsoft Docs
+title: Standard cost conversion overview
 description: This article provides a process overview to help you set up and run a standard cost conversion. The steps listed are intended to be completed after you&quot;ve completed the prerequisites for a standard cost conversion.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-04-05 14:44:29
+ms.date: 2016-04-05 14 - 44 - 29
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CostingVersion, InventStdCostConv
+ms.search.form: CostingVersion, InventStdCostConv
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 78212
-ms.assetid: fce50d14-7821-41cf-8ae8-fa84bb3c9eb7
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 309d641e-a63d-47bf-a4ff-01fed9b24166
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 95baa2fdc842c6f98b6b23629bff4f9880f3c982
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 922e72925547016e9782a9ce32c76e73e8ee6068
 
 
 ---
@@ -94,7 +95,7 @@ The **Variance analysis statement** report lets you analyze revaluation variance
 <a name="see-also"></a>See also
 --------
 
-[Prerequisites for a standard cost conversion](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/cost-management/prerequisites-for-a-standard-cost-conversion)
+[Prerequisites for a standard cost conversion](prerequisites-standard-cost-conversion.md)
 
 
 

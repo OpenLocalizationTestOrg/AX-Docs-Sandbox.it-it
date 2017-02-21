@@ -1,25 +1,27 @@
 ---
-title: Batch attributes | Microsoft Docs
+title: Batch attributes
 description: This article provides information about batch attributes. Batch attributes are characteristics of raw materials and finished products that make up inventory batches. The article also explains how to assign batch attributes, and how you can search on them when you reserve batches.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-07 09:17:04
+ms.date: 2015-12-07 09 - 17 - 04
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: PdsBatchAttrib, PdsBatchAttribAssociate, PdsBatchAttribByAttribGroup, PdsBatchAttribByItem, PdsBatchAttribByitemCustomer, PdsBatchAttribGroup
+ms.search.form: PdsBatchAttrib, PdsBatchAttribAssociate, PdsBatchAttribByAttribGroup, PdsBatchAttribByItem, PdsBatchAttribByitemCustomer, PdsBatchAttribGroup
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 19271
-ms.assetid: 199c0eed-5b57-4e19-8d32-a3cfdd991f77
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 63a96fa0-ca28-4a33-8950-f78fbcc28b57
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: eb381410f82d11a0c1cd71649d53db10f6f07e76
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 527ae116a78d7a19d25d50a3d0d3c1bd898d4e8e
 
 
 ---

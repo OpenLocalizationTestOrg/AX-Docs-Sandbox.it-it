@@ -1,24 +1,25 @@
 ---
-title: Cost element dimensions | Microsoft Docs
+title: Cost element dimensions
 description: As one of the core pillars in Cost accounting, cost element dimensions are used to categorize and track where costs flow to.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-11-01 13:33:03
+ms.date: 2016-11-01 13 - 33 - 03
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CAMDimension
+ms.search.form: CAMDimension
 audience: Application User
-ms.reviewer: 121
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 223204
-ms.assetid: 4e8b04a9-ca52-496f-ab93-1ada4d4caf3f
-ms.region: global
+ms.assetid: 66c3458f-7832-4bf6-ae87-c7ef7c157df3
+ms.search.region: global
 ms.author: yuyus
+ms.dyn365.intro: Nov-16
+ms.dyn365.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 4a1566538b333b9ae5e721817a62dd6c1f3a7b8c
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: d4fd717800e729b37492f15bd2660c47f3e136da
 
 
 ---

@@ -1,24 +1,25 @@
 ---
-title: Organizations and organizational hierarchies (Commerce essentials) | Microsoft Docs
+title: Organizations and organizational hierarchies (Commerce essentials)
 description: Commerce essentials has three types of internal organizations that you can define to help an organization carry out a business process or achieve a goal.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-09 14:53:48
+ms.date: 2015-12-09 14 - 53 - 48
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: josaw1
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 21251
-ms.assetid: b3db4bbf-d0c1-484e-bf71-cfdbb985b27c
-ms.region: global
-ms.industry: Retail
+ms.assetid: 6ba326be-9162-494e-b55d-11467b3fd2c6
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: rubendel
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 412be1495141403f19397b3be44026bd21ed1316
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 5a662ec45473dc67706939ce2c8f692f159186d0
 
 
 ---

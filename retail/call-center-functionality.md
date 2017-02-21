@@ -1,24 +1,26 @@
 ---
-title: Call center functionality | Microsoft Docs
+title: Call center functionality
 description: This article provides an overview of the call center sales functionality in Microsoft Dynamics 365 for Operations.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-04 02:12:14
+ms.date: 2015-12-04 02 - 12 - 14
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 16361
-ms.assetid: 1db5be10-35ec-4199-a4ae-0c2a43673326
-ms.region: global
-ms.industry: Retail
+ms.assetid: f8094880-889e-4778-a196-07ed42e936e8
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: josaw
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6aee4be3b98dbb19102779ede076da10699dff38
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: b3696aaa0f117e2093c872b10eaf3670082ee872
 
 
 ---

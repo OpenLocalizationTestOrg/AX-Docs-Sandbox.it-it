@@ -1,24 +1,25 @@
 ---
-title: Depreciation effects with reversals | Microsoft Docs
+title: Depreciation effects with reversals
 description: This article discusses potential implications of reversing a fixed asset transaction.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-09-10 20:17:48
+ms.date: 2015-09-10 20 - 17 - 48
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetTrans
+ms.search.form: AssetTrans
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 2961
-ms.assetid: c68b22d1-1067-4af5-ae9f-623a7aa8712f
-ms.region: Global
+ms.assetid: c0c93f5e-aab2-460d-847f-0be18d07f997
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 9c71e772018cd725049dece1a4c0fa69dc58e38a
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: b99c7625be7e790b4944493acf2e9f6a2c6ab5e1
 
 
 ---
@@ -85,7 +86,7 @@ Depreciation is understated by 16.95 (983.62 - 966.67).
 <a name="see-also"></a>See also
 --------
 
-[Fixed asset depreciation](https://docs.microsoft.com/en-us/dynamics365/operations/financials/fixed-assets/fixed-asset-depreciation)
+[Fixed asset depreciation](fixed-asset-depreciation.md)
 
 
 

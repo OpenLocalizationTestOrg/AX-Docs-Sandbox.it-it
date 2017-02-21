@@ -1,23 +1,25 @@
 ---
-title: POS offline functionality | Microsoft Docs
+title: POS offline functionality
 description: This article provides information about offline mode for Retail Modern POS, in which POS devices automatically switch from the channel database to the offline database if the retail server is unavailable. This article also includes general setup information for offline mode and explains the data synchronization that occurs between the offline database and the channel database.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-13 04:13:51
+ms.date: 2015-12-13 04 - 13 - 51
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 27041
-ms.assetid: 3ff2b755-5207-4031-9731-8fcd5f88e406
-ms.region: Global
-ms.industry: Retail
+ms.assetid: ca42ed3a-6dcc-4a24-a995-56004ff2b796
+ms.search.region: Global
+ms.search.industry: Retail
 ms.author: josaw
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 477196312e73e4a9fbc1031fb8072b1e42a599ff
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: c73281122ccb96788d86d6b42e7f13a8cae19827
 
 
 ---

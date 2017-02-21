@@ -1,24 +1,26 @@
 ---
-title: Info codes | Microsoft Docs
+title: Info codes
 description: This article provides an overview about info codes, info code groups, and how to use them.
 author: RobinARH
 manager: AnnBe
-ms.date: 2015-12-11 22:44:20
+ms.date: 2015-12-11 22 - 44 - 20
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: RobinARH
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 22761
-ms.assetid: 2cef5c8d-69cd-4d38-bf2d-8c5bb5a34bfe
-ms.region: global
-ms.industry: Retail
+ms.assetid: c313a366-598b-4ff3-90ee-2661d612c895
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: sijoshi
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 77411d24a5d2599f821d7e8dbbf36e051a37891e
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 3146230d50e455094e6435e715cbe88ec32b7edc
 
 
 ---

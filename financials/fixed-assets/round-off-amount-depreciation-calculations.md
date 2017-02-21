@@ -1,24 +1,25 @@
 ---
-title: Round-off amount for depreciation calculations | Microsoft Docs
+title: Round-off amount for depreciation calculations
 description: This article discusses the Round-off depreciation field that is found on the Book setup pages.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:00:51
+ms.date: 2015-12-02 23 - 00 - 51
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetBookTable, AssetDepBookTable
+ms.search.form: AssetBookTable, AssetDepBookTable
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13931
-ms.assetid: 61aed3fa-6cdd-4e67-b026-ee18a02547de
-ms.region: Global
+ms.assetid: bf91a80f-82aa-42f5-a5e7-57829c26c1ea
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 14aef9ce740bd7cabb3f66677c85f0401a7081fb
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: ba27528c7daf1195d43390a1ffc5ffa333cc2d53
 
 
 ---

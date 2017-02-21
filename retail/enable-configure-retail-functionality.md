@@ -1,24 +1,26 @@
 ---
-title: Initialize seed data in a new Retail environment | Microsoft Docs
+title: Initialize seed data in a new Retail environment
 description: This article describes the data that&quot;s created as part of the initialization process for Microsoft Dynamics 365 for Operations - Retail.
 author: josaw1
 manager: AnnBe
-ms.date: 2016-02-17 01:31:19
+ms.date: 2016-02-17 01 - 31 - 19
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 49621
-ms.assetid: dc8b01e7-3c55-4af7-b0c3-3b238a12bfd0
-ms.region: global
-ms.industry: Retail
+ms.assetid: e10dfcd7-d0cd-4dfe-855a-66220df3f248
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: josaw
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 111d71f84022d4f8d58aac8b2d8e686f51ddacfb
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 73c6d68b8335854c449d06f06240a8e75a43576e
 
 
 ---

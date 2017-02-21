@@ -1,25 +1,26 @@
 ---
-title: Quality management overview | Microsoft Docs
+title: Quality management overview
 description: This article describes how you can use quality management in Microsoft Dynamics 365 for Operations to help improve product quality within your supply chain.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-06-17 09:19:40
+ms.date: 2016-06-17 09 - 19 - 40
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventTestAssociationTable, InventTestGroup, InventTestItemQualityGroup, InventTestTable, InventTestVariable, InventTestVariableOutcome
+ms.search.form: InventTestAssociationTable, InventTestGroup, InventTestItemQualityGroup, InventTestTable, InventTestVariable, InventTestVariableOutcome
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 94003
-ms.assetid: a0b0de5e-3794-40f2-a76e-2b32d66558ef
-ms.region: Global
-ms.industry: Distribution
+ms.assetid: e8d8f101-a6cd-47b6-b638-21e7007179a1
+ms.search.region: Global
+ms.search.industry: Distribution
 ms.author: perlynne
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: c0a62e0619db9269e24edd39047d95549e22553c
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 8030acaa6bd2f823bd9ea40fd4c82f4dc47f9bb8
 
 
 ---
@@ -120,9 +121,9 @@ You must define a quality associationfor each variation in a business process th
 <a name="see-also"></a>See also
 --------
 
-[Quality management processes](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/inventory-management/quality-management-processes)
+[Quality management processes](quality-management-processes.md)
 
-[Enabling nonconformance management](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/inventory-management/enabling-nonconformance-management)
+[Enabling nonconformance management](enable-nonconformance-management.md)
 
 
 

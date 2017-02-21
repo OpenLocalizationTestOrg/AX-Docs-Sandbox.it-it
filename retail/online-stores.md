@@ -1,24 +1,25 @@
 ---
-title: Online store overview | Microsoft Docs
+title: Online store overview
 description: This article provides information about Retail online stores and how to set them up in Microsoft Dynamics 365 for Operations.
 author: kfend
 manager: AnnBe
-ms.date: 2015-12-03 22:19:19
+ms.date: 2015-12-03 22 - 19 - 19
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: 2041
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 16161
-ms.assetid: 7c20907b-8ed9-4976-8f82-dc468433ea74
-ms.region: Global
-ms.industry: Retail
+ms.assetid: 6b1b7392-ddcb-4330-97b8-16b64cea5724
+ms.search.region: Global
+ms.search.industry: Retail
 ms.author: meeram
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 8927e1d8dc742ef8c70bbbc7f14070d8ddd08016
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 0f08104192b48b54baa89ddd435d5a0b7e14433b
 
 
 ---

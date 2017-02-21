@@ -1,24 +1,25 @@
 ---
-title: Project contracts | Microsoft Docs
+title: Project contracts
 description: This article describes and provides examples of the project contracts that you can create for various types of projects and funding sources, and how you can manage contracts and invoice project customers in Microsoft Dynamics 365 for Operations.
 author: kfend
 manager: AnnBe
-ms.date: 2016-11-21 23:22:06
+ms.date: 2016-11-21 23 - 22 - 06
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ProjProjectContractsListPage, ProjProjectsListPage
+ms.search.form: ProjProjectContractsListPage, ProjProjectsListPage
 audience: Application User, IT Pro
-ms.reviewer: 51
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 23561
-ms.assetid: 53983c8d-530b-483d-8249-e260f5e4ba0b
-ms.region: Global
+ms.assetid: a5a0fa1b-265e-44c8-9bfc-113848068ab6
+ms.search.region: Global
 ms.author: kfend
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 3ac6fa46f599b14131267a98c90f190bf7fd620a
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 2621ced51e8dd62b43091cf5149839585c6389e9
 
 
 ---

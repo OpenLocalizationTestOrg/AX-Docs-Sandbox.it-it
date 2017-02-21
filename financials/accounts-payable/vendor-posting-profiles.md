@@ -1,24 +1,26 @@
 ---
-title: Vendor posting profiles | Microsoft Docs
+title: Vendor posting profiles
 description: Vendor posting profiles control the posting of vendor transactions to the general ledger.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-12 19:14:01
+ms.date: 2015-12-12 19 - 14 - 01
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: VendPosting
+ms.search.form: VendPosting
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 24691
-ms.assetid: 7c319b67-383a-471f-af50-49b2d5644772
-ms.region: Global
+ms.assetid: 06e97903-fc0d-4af1-acb0-63940e860ac4
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f8efd35ff70afdcbe13779945da8502a1f9c7a30
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: b39d0c4f0433dbff4f91eaee37e4390171d254c7
 
 
 ---

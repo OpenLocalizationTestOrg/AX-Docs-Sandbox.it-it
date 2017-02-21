@@ -1,23 +1,25 @@
 ---
-title: Recently added editing features in task recorder | Microsoft Docs
+title: Recently added editing features in task recorder
 description: If you use task recorder to create task guides, you can edit your files more efficiently using the functionality described in this wiki.
 author: josaw1
 manager: AnnBe
-ms.date: 2017-01-09 19:16:36
+ms.date: 2017-01-09 19 - 16 - 36
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX platform update 2
+ms.search.scope: Core
 ms.custom: 266464
-ms.assetid: 0306195d-6f09-42d5-b932-ad0501289c0f
-ms.region: global
+ms.assetid: 8b04339a-2246-4bf8-9395-dd86de8c75ec
+ms.search.region: global
 ms.author: josaw
+ms.dyn365.ops.intro: Aug-16
+ms.dyn365.ops.version: Platform update 2
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 8ccae22b1a9e3c8a4063a869d766f14eda5e669f
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 8d672deb080991186741028b17790521a73b22cf
 
 
 ---
@@ -73,11 +75,11 @@ You can expand and collapse the **Recording name** and **Recording description**
 <a name="see-also"></a>See also
 --------
 
-[Task Recorder in Microsoft Dynamics 365 for Operations](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/task-recorder-in-ax7)
+[Task Recorder in Microsoft Dynamics 365 for Operations](task-recorder.md)
 
-[Create documentation or training using Task recordings](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/task-recorder)
+[Create documentation or training using Task recordings](task-recorder.md)
 
-[Task recorder quick reference](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/task-recorder-quick-reference)
+[Task recorder quick reference](task-recorder-quick-reference.md)
 
 
 

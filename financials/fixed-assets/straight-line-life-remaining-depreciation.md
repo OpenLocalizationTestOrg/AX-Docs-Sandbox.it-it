@@ -1,24 +1,25 @@
 ---
-title: Straight line life remaining depreciation | Microsoft Docs
+title: Straight line life remaining depreciation
 description: This article gives an overview of the Straight line life remaining method of depreciation.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 22:58:08
+ms.date: 2015-12-02 22 - 58 - 08
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetDepreciationProfile
+ms.search.form: AssetDepreciationProfile
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13851
-ms.assetid: f01a1cb7-078c-4d52-929a-f9ab28ba55be
-ms.region: Global
+ms.assetid: 1f9dae9f-79d9-44bb-bf5b-c494fab0cd3d
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 59317e7897f2b83004033c994d890b7cfab75e31
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: e12812e21bba529798acfd88653a08b7cd876fe8
 
 
 ---

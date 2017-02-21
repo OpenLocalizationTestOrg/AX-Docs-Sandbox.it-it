@@ -1,25 +1,27 @@
 ---
-title: Production setup requirements | Microsoft Docs
+title: Production setup requirements
 description: This article provides information about setup requirements before you can work with Production control.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-25 13:02:09
+ms.date: 2016-02-25 13 - 02 - 09
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ProdParameters, RouteOpr, RouteOprTable, WorkCalendarTable, WorkTimeTable, WrkCtrTable
+ms.search.form: ProdParameters, RouteOpr, RouteOprTable, WorkCalendarTable, WorkTimeTable, WrkCtrTable
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 55561
-ms.assetid: 96799f56-9940-4bed-8d50-77ed6f21bc40
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: da3f7314-a671-4ca9-bc28-ea8e51b1f7d1
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: johanho
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 0b406ea4658545d101f8010a65b99c8a97259b8c
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 4858e66cec5f82c9648f9d6a474a445b59348335
 
 
 ---

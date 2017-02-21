@@ -1,24 +1,26 @@
 ---
-title: Customer posting profiles | Microsoft Docs
+title: Customer posting profiles
 description: Customer posting profiles control the posting of customer transactions to the general ledger.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-12 19:13:19
+ms.date: 2015-12-12 19 - 13 - 19
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustPosting
+ms.search.form: CustPosting
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 24651
-ms.assetid: 4ccc6bf5-6348-41f4-ab14-e3cb813ec9c1
-ms.region: Global
+ms.assetid: 4e854c54-a478-4985-ab20-a385e4de8017
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 234f839f2289b39f708a2866e68c9082c49af39f
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 550264fe319542a5492d6f47fc94ce005edd5d2b
 
 
 ---

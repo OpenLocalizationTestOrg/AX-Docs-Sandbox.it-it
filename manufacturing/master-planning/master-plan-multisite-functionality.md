@@ -1,25 +1,27 @@
 ---
-title: Master planning and multisite functionality | Microsoft Docs
+title: Master planning and multisite functionality
 description: Master planning takes the settings of the site and warehouse inventory dimensions into account.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-09-10 08:44:29
+ms.date: 2015-09-10 08 - 44 - 29
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventLocation, InventSite
+ms.search.form: InventLocation, InventSite
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 2434
-ms.assetid: b210796b-7891-49db-9234-d2adf7145e57
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 79ab1209-9126-4b32-aa00-60eb26a4c0d8
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: roxanad
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 5d559406f0b77a3083fdb616f8bd50da301cd092
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: c85e1b2616b23dadc0968676dc3de660d5d0a248
 
 
 ---
@@ -36,15 +38,15 @@ When the warehouse is not set to mandatory, it may not be known from the initial
 
 The following wiki articles describe how the planning engine works, when different settings are defined, to determine the warehouse to use.
 
-[Master planning - site and warehouse coverage, warehouse mandatory](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/master-planning-site-and-warehouse-coverage-warehouse-mandatory)
+[Master planning - site and warehouse coverage, warehouse mandatory](master-plan-site-warehouse-coverage-warehouse-mandatory.md)
 
-[Master planning - site coverage, warehouse mandatory](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/master-planning-site-coverage-warehouse-mandatory)
+[Master planning - site coverage, warehouse mandatory](master-plan-site-coverage-warehouse-mandatory.md)
 
-[Master planning - site and warehouse coverage, warehouse not mandatory](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/master-planning-site-and-warehouse-coverage-warehouse-not-mandatory)
+[Master planning - site and warehouse coverage, warehouse not mandatory](master-plan-site-warehouse-coverage-warehouse-not-mandatory.md)
 
-[Master planning - site coverage, warehouse not mandatory](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/master-planning-site-coverage-warehouse-not-mandatory)
+[Master planning - site coverage, warehouse not mandatory](master-plan-site-coverage-warehouse-not-mandatory.md)
 
-[Master planning - How the BOM version is determined](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/master-planning-how-the-bom-version-is-determined)
+[Master planning - How the BOM version is determined](master-plan-bom-version-determined.md)
 
 
 

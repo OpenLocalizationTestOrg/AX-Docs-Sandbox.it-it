@@ -1,23 +1,25 @@
 ---
-title: Fixed asset mass update | Microsoft Docs
+title: Fixed asset mass update
 description: If you use depreciation books, you can change the depreciation conventions for groups of assets that are part of the same depreciation book.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-09-10 21:05:14
+ms.date: 2015-09-10 21 - 05 - 14
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 3521
-ms.assetid: 7aa4123e-f166-4560-ab9a-ddbe5fa45b07
-ms.region: Global
+ms.assetid: 0afa9e19-58f0-4ff0-a57d-9a7f8e8264da
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 52173f777de112a7e43d7ad25711d742f7aae2db
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 2a6f061316ce435f6a838b05f0c84ead4a5c3000
 
 
 ---

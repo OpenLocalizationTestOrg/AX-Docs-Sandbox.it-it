@@ -1,25 +1,27 @@
 ---
-title: Reverse the production order status | Microsoft Docs
+title: Reverse the production order status
 description: This topic describes how to reverse production order status.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-03-23 19:00:04
+ms.date: 2016-03-23 19 - 00 - 04
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ProdParmStatusDecrease
+ms.search.form: ProdParmStatusDecrease
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 70131
-ms.assetid: 4a966289-a485-4505-b01e-9d4ef436d710
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: d1d4aea9-3536-4e81-9960-14c18b6360a9
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: johanho
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 656bd0c1fffacaa1e2f84696002e2a62b4baf807
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: fe4c2d089e851dbf793c798fad28350b0fb86705
 
 
 ---

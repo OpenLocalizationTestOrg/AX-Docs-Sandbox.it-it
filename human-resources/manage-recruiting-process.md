@@ -1,24 +1,26 @@
 ---
-title: Manage a recruiting process | Microsoft Docs
+title: Manage a recruiting process
 description: This article describes a concept that recruiters can use to track the steps in a recruiting process, including efforts to advertise open positions and recruit applicants, tracking applicant and application information, interviewing applicants, and selecting one or more candidates to fill the open positions in your organization.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-09-15 18:12:04
+ms.date: 2015-09-15 18 - 12 - 04
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: HRMApplication, HRMRecruitingTable
+ms.search.form: HRMApplication, HRMRecruitingTable
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 7501
-ms.assetid: ca55155c-0c9c-4c5d-a80a-8e6b48694f6d
-ms.region: Global
+ms.assetid: b2161853-eb59-4942-9418-edecf4612478
+ms.search.region: Global
 ms.author: twheeloc
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: eca0701ac5e82312015e2f03bd89ce77d692b8e8
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: f2cbcad83a1386e8ab566bdc0f55b76d8610c28e
 
 
 ---

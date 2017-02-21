@@ -1,25 +1,26 @@
 ---
-title: Costing sheets | Microsoft Docs
+title: Costing sheets
 description: Setting up the costing sheet involves two objectives. As the first objective, you define the format for displaying cost of goods sold information about a manufactured item or production order. The formatted display is termed a costing sheet. As the second objective, you define the basis for calculating indirect costs. The costing sheet setup builds on the cost group feature for displaying information and for the indirect cost calculation formulas. The two objectives of costing sheet setup are described in this article.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-24 15:11:15
+ms.date: 2016-02-24 15 - 11 - 15
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CostSheetDesigner
+ms.search.form: CostSheetDesigner
 audience: Application User
-ms.reviewer: 121
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 53201
-ms.assetid: e6e747c8-7752-46e9-b095-38132cdadcab
-ms.region: global
-ms.industry: Manufacturing
+ms.assetid: 1907fa3a-bc57-4950-92a6-558d8d54a4af
+ms.search.region: global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6ecba8dab70725f4f595d7dc078ece5f360a6d2f
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 12d6a33b50d180e281a299569d6709d4c8af4bb7
 
 
 ---

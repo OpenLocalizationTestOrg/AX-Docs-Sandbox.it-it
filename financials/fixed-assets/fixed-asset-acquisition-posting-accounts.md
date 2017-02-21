@@ -1,24 +1,26 @@
 ---
-title: Fixed asset acquisition posting accounts | Microsoft Docs
+title: Fixed asset acquisition posting accounts
 description: This article explains how to set up general ledger posting accounts for acquiring assets.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-11 22:58:02
+ms.date: 2015-12-11 22 - 58 - 02
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetPosting
+ms.search.form: AssetPosting
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 23021
-ms.assetid: 3d093e84-1789-4e33-9a2d-7fe89874d4b3
-ms.region: Global
+ms.assetid: 08d64e71-edf6-49b2-93ba-01859ea4bdc0
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 44613c932e5aa3f5d1a03b0d22c7908e6bdf80eb
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: d477d2f2f91cf2ded81d481413956ff6f0171601
 
 
 ---

@@ -1,24 +1,25 @@
 ---
-title: Project forecasts and budgets | Microsoft Docs
+title: Project forecasts and budgets
 description: 
 author: kfend
 manager: AnnBe
-ms.date: 2015-12-11 23:24:54
+ms.date: 2015-12-11 23 - 24 - 54
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ForecastModel, ProjYearEndProcess
+ms.search.form: ForecastModel, ProjYearEndProcess
 audience: Application User
-ms.reviewer: 51
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 23501
-ms.assetid: fe9ac705-9b48-41c4-a59d-3903c1efd9eb
-ms.region: Global
+ms.assetid: 4c12d10f-4f6b-4ee2-a5a4-3f914c27d5f5
+ms.search.region: Global
 ms.author: kfend
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6c2ea7ef1b56c5bca171feb3a91fb9dbbb8e8bd4
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: a2b6a13768ff2d9b53fda26dcf64f99c353d5e83
 
 
 ---

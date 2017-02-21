@@ -1,23 +1,24 @@
 ---
-title: Configure an approval step in a workflow | Microsoft Docs
+title: Configure an approval step in a workflow
 description: This topic explains how to configure the properties of an approval step.
 author: sericks007
 manager: AnnBe
-ms.date: 2016-09-16 19:49:36
+ms.date: 2016-09-16 19 - 49 - 36
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 192161
-ms.assetid: 165b1ef3-1d3e-4dc2-b3d1-eb0762647266
-ms.region: Global
+ms.assetid: 9fdecfcf-cd85-47d0-ba17-36593108383a
+ms.search.region: Global
 ms.author: donaldc
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: c2c2fc630d40a7b1221dc50c74614b777fea1051
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: c0f76f841b8d81f28938a871642cc11efc11260c
 
 
 ---

@@ -1,25 +1,26 @@
 ---
-title: Cost groups | Microsoft Docs
+title: Cost groups
 description: "Cost groups provide the basis for segmenting and analyzing cost contributions in a manufactured item’s calculated cost, such as the cost contributions for material, labor, and overhead. Cost group segmentation has several synonyms within manufacturing environments, such as cost breakdown, cost decomposition, or cost classification."
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-18 19:04:05
+ms.date: 2016-02-18 19 - 04 - 05
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BOMCostGroup
+ms.search.form: BOMCostGroup
 audience: Application User
-ms.reviewer: a:2:{s:4:"name";s:23:"Yuyu Charlotte Scheller";s:2:"id";s:0:"";}
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 50871
-ms.assetid: 373fb148-1c6e-4268-ba69-dad369bf7376
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: f87dec50-7235-47b1-81e1-b7ee03ac257f
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: c41180f515ef49f908489f7e490cd081e7ba8fb4
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: d0eafbd70bf7da18064db8435c0551470baacc52
 
 
 ---

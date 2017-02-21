@@ -1,24 +1,26 @@
 ---
-title: Order promising | Microsoft Docs
+title: Order promising
 description: This article provides information about order promising. Order promising helps you reliably promise delivery dates to your customers and gives you flexibility so that you can meet those dates.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-09-22 23:10:58
+ms.date: 2016-09-22 23 - 10 - 58
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: SalesATP, SalesAvailableDlvDates
+ms.search.form: SalesATP, SalesAvailableDlvDates
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 193933
-ms.assetid: d5c73e2d-1e7c-4bc7-9f9a-32f04ee29182
-ms.region: Global
+ms.assetid: 028ad9c2-e016-4080-8dba-2d334c9561a5
+ms.search.region: Global
 ms.author: omulvad
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 0f3d1b8a5ac3b4de955c651874307585af35f799
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: c10d899eadc6ca068d5bf4bd2711635ac8ab2294
 
 
 ---

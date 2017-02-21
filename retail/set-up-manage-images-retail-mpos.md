@@ -1,24 +1,25 @@
 ---
-title: Set up and manage images for Retail Modern POS | Microsoft Docs
+title: Set up and manage images for Retail Modern POS
 description: This article explains the steps that are involved in setting up and managing images for the various entities that appear in Retail Modern POS (MPOS).
 author: MargoC
 manager: AnnBe
-ms.date: 2016-02-24 14:58:41
+ms.date: 2016-02-24 14 - 58 - 41
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 41
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 52851
-ms.assetid: f98477c8-a816-4ec1-8026-a009e558902a
-ms.region: global
-ms.industry: Retail
+ms.assetid: 480b51e8-a077-43ce-9111-cd3532952cd6
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: athinesh
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 50458fa4bfc3a74fac5d7df351bb87fc37aaf7b1
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: f263df8c476a9ee1b602a3b338c2de4aa2227f33
 
 
 ---

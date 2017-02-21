@@ -1,24 +1,26 @@
 ---
-title: View and evaluate the results of a questionnaire | Microsoft Docs
+title: View and evaluate the results of a questionnaire
 description: This article explains how you can view and evaluate the results of questionnaires that respondents complete.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-04 18:36:29
+ms.date: 2015-12-04 18 - 36 - 29
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: KMCollection, KMKnowledgeCollectorCollection, KMKnowledgeCollectorUserResults
+ms.search.form: KMCollection, KMKnowledgeCollectorCollection, KMKnowledgeCollectorUserResults
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 17444
-ms.assetid: 9150ed48-e3b8-4944-b9ad-8b751933f250
-ms.region: Global
+ms.assetid: 2ce8dcc5-6851-4800-9e9a-7f652b351966
+ms.search.region: Global
 ms.author: twheeloc
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: c8a2eeb3ab7ef0f4729f7a5297f28cc28e116fd4
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 7a9be79e5fa98fc6bad8f5c8d463427589fa667e
 
 
 ---
@@ -71,11 +73,11 @@ The settings that you define are saved and can be used to periodically recalcula
 <a name="see-also"></a>See also
 --------
 
-[Designing questionnaires](https://docs.microsoft.com/en-us/dynamics365/operations/human-resources/questionnaire/designing-questionnaires)
+[Designing questionnaires](design-questionnaires.md)
 
-[Using questionnaires](https://docs.microsoft.com/en-us/dynamics365/operations/human-resources/questionnaire/using-questionnaires)
+[Using questionnaires](questionnaires.md)
 
-[Distributing and completing questionnaires](https://docs.microsoft.com/en-us/dynamics365/operations/human-resources/questionnaire/distributing-questionnaires)
+[Distributing and completing questionnaires](distribute-questionnaires.md)
 
 
 

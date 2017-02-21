@@ -1,25 +1,26 @@
 ---
-title: Install the Retail POS Layout designer | Microsoft Docs
+title: Install the Retail POS Layout designer
 description: You can use the one-click designer to design different Retail Modern POS (MPOS) and Cloud POS layouts, in either Landscape mode or Portrait mode, for stores, registers, cashiers, and managers.
 author: MargoC
 manager: AnnBe
-ms.date: 2016-10-28 19:05:13
+ms.date: 2016-10-28 19 - 05 - 13
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: RetailTillLayout
+ms.search.form: RetailTillLayout
 audience: Application User
-ms.reviewer: 11
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 219684
-ms.assetid: 060d20a7-ffb3-4ba8-af72-6b55e3e292af
-ms.region: Global
-ms.industry: Retail
+ms.assetid: 34f90578-037d-4902-bbf7-76d724333400
+ms.search.region: Global
+ms.search.industry: Retail
 ms.author: athinesh
+ms.dyn365.ops.intro: Nov-16
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 51ffec6cd4f4a2376e30323e27f7492a06bbc0d8
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 4d16707a7330cdcbdcfcdcdd34b44283b8766797
 
 
 ---
@@ -49,7 +50,7 @@ The graphical design interface for MPOS or Cloud POS is controlled by the till l
 <a name="see-also"></a>See also
 --------
 
-[Configure, download, install, and activate Retail Modern POS](https://docs.microsoft.com/en-us/dynamics365/operations/retail/retail-modern-pos-and-device-activation-scenarios)
+[Configure, download, install, and activate Retail Modern POS](retail-modern-pos-device-activation.md)
 
 
 

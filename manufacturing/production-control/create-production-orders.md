@@ -1,25 +1,27 @@
 ---
-title: Create production orders | Microsoft Docs
+title: Create production orders
 description: When a production order is created, a request is initiated to start producing an item. The production order contains information about what will be produced, the quantity to produce, and the planned finish date. It also contains information about which materials to consume and which process to follow to produce the item.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-07 17:51:31
+ms.date: 2015-12-07 17 - 51 - 31
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ProdTable, ProdTableCreate
+ms.search.form: ProdTable, ProdTableCreate
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 19741
-ms.assetid: f9e8f686-c59a-4d97-9448-056f0fc4392f
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: bc742f70-5baf-4c8e-963c-baaf6bb34631
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: johanho
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 3312290334ce5493e4e5df37da4623439311afa8
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 2bd273c35bcbd8836e0fa9689c303c649ef7768a
 
 
 ---

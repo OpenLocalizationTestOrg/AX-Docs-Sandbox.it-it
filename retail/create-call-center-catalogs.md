@@ -1,24 +1,26 @@
 ---
-title: Create a call center catalog | Microsoft Docs
+title: Create a call center catalog
 description: This article provides an overview of the process for creating a catalog for a call center.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-03 22:20:12
+ms.date: 2015-12-03 22 - 20 - 12
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 16212
-ms.assetid: d1042887-f27e-4e53-a4bb-9a3c1185fc7e
-ms.region: global
-ms.industry: Retail
+ms.assetid: e9a416ae-9e32-41ab-8aa1-f81b9870465a
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: josaw
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: c19d18ad976e129c8a488f72d14f58aa8dc6da30
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: ba1ffcce60271dc2e984fdfbebb7e4f75dce3240
 
 
 ---

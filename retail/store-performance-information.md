@@ -1,24 +1,25 @@
 ---
-title: Analyze store performance | Microsoft Docs
+title: Analyze store performance
 description: This article explains how you can use the in-memory and real-time analytics to access, explore, and gain insight about store performance, based on your Microsoft Dynamics 365 for Operations data.
 author: josaw1
 manager: AnnBe
-ms.date: 2016-03-01 20:59:53
+ms.date: 2016-03-01 20 - 59 - 53
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 2041
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 57811
-ms.assetid: df1ea234-f76a-4429-94ef-f65b9e077742
-ms.region: global
-ms.industry: Retail
+ms.assetid: 366ed1b9-1637-4985-ac41-ecc211d032de
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: asharchw
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 74d377a71e83083145bf2bbc1b8b36644cb06d99
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 129ff9a8dd3e43829dedc4ad2adcba22d34663f6
 
 
 ---
@@ -41,7 +42,7 @@ This report provides a snapshot of following summaries as part of store performa
 -   Price overrides summary
 -   Discounts summary
 
-For more information, see [Creating next-generation reporting solutions](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/creating-nextgen-reporting-solutions).
+For more information, see [Creating next-generation reporting solutions](create-nextgen-reporting-solutions.md).
 
 
 

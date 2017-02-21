@@ -1,23 +1,24 @@
 ---
-title: Settlement overview for centralized payments | Microsoft Docs
+title: Settlement overview for centralized payments
 description: Organizations that include multiple legal entities can create and manage payments by using a legal entity that handles all payments. This eliminates the need to enter the same transaction in multiple legal entities and saves time by streamlining the payment proposal process, the settlement process, open transaction editing, and closed transaction editing for centralized payments.
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-10-31 18:23:48
+ms.date: 2016-10-31 18 - 23 - 48
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 222414
-ms.assetid: 0aa46699-aac7-4df1-967c-472bb25f4bcc
-ms.region: Global
+ms.assetid: 12775338-2b6a-4713-8195-7b1f3f00b6df
+ms.search.region: Global
 ms.author: abruer
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 29a49f494b20cb5fb1b3c525dc18d7858b2f10c9
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 3e8279ce220c89893ab1fd1337bce56e51556ea2
 
 
 ---

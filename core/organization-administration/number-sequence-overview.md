@@ -1,23 +1,24 @@
 ---
-title: Number sequence overview | Microsoft Docs
+title: Number sequence overview
 description: Number sequences in Microsoft Dynamics 365 for Operations are used to generate readable, unique identifiers for master data records and transaction records that require identifiers. A master data record or transaction record that requires an identifier is referred to as a <em>reference</em>.
 author: MargoC
 manager: AnnBe
-ms.date: 2015-12-03 20:19:22
+ms.date: 2015-12-03 20 - 19 - 22
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 15461
-ms.assetid: 2a077ca4-a591-4f92-8d4e-3b5efcce2d65
-ms.region: Global
+ms.assetid: 1673f442-08d0-4524-9d88-b043ff5304f3
+ms.search.region: Global
 ms.author: margoc
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 28934856604daa72b48d901cce29f9cd0629379d
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: a0202c8f38d9dd37e2804cf5a1d31afa7b10e8f4
 
 
 ---

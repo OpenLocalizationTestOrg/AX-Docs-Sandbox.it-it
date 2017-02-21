@@ -1,24 +1,25 @@
 ---
-title: Quarantine orders | Microsoft Docs
+title: Quarantine orders
 description: This article describes how quarantine orders are used to block inventory.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-01-25 09:53:00
+ms.date: 2016-01-25 09 - 53 - 00
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventLocation, InventModelGroup, InventQuarantineOrder, InventQuarantineParmEnd, InventQuarantineParmReportFinished, InventQuarantineParmStartUp, InventTrans
+ms.search.form: InventLocation, InventModelGroup, InventQuarantineOrder, InventQuarantineParmEnd, InventQuarantineParmReportFinished, InventQuarantineParmStartUp, InventTrans
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 30021
-ms.assetid: 7a7e3af1-9e3c-4968-8cd1-e156350e91bc
-ms.region: Global
+ms.assetid: afb9643c-3b5c-42d5-b844-62b12dddd943
+ms.search.region: Global
 ms.author: perlynne
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 0a731b6f5067b2d81ae5aef2beb03d7f86e10c89
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 589a92913a466d2d92f2517159bb597386769f43
 
 
 ---
@@ -62,7 +63,7 @@ As part of the quarantine order process, you can scrap inventory. When you proce
 <a name="see-also"></a>See also
 --------
 
-[Inventory blocking](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/warehouse-management/inventory-blocking)
+[Inventory blocking](inventory-blocking.md)
 
 
 

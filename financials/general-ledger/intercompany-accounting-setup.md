@@ -1,24 +1,25 @@
 ---
-title: Intercompany accounting setup | Microsoft Docs
+title: Intercompany accounting setup
 description: This topic explains how to set up intercompany accounting so that you can use intercompany journals for ledger allocations and financial journals, such as daily journals, vendor invoice journals, and payment journals.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-03 20:44:04
+ms.date: 2015-12-03 20 - 44 - 04
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerInterCompany
+ms.search.form: LedgerInterCompany
 audience: Application User
-ms.reviewer: 2231
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 15761
-ms.assetid: 26df97b6-f7e6-4280-98a3-2931bb93e07b
-ms.region: Global
+ms.assetid: 42db84b1-e051-4b21-980a-d736bf0a187b
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 3c3ff907925ad1e433d18e7b2add626bfd5e42e2
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 947d7570698b1498db632d6144b7505a60336521
 
 
 ---

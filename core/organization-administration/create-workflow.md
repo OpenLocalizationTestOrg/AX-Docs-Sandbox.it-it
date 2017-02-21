@@ -1,23 +1,24 @@
 ---
-title: Create a workflow | Microsoft Docs
+title: Create a workflow
 description: This topics explains how to create a workflow.
 author: sericks007
 manager: AnnBe
-ms.date: 2016-09-30 15:53:09
+ms.date: 2016-09-30 15 - 53 - 09
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX platform update 2
+ms.search.scope: Core
 ms.custom: 195583
-ms.assetid: 99ac4b6d-cd1d-49d6-82bc-092fac3ca5bb
-ms.region: Global
+ms.assetid: 57757a09-1993-4cce-a6b7-4bdb97c42a3d
+ms.search.region: Global
 ms.author: donaldc
+ms.dyn365.ops.intro: Aug-16
+ms.dyn365.ops.version: Platform update 2
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: e063953616bb8a1aafc0d461c190bc0cce8b997b
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 2c8e5915d3fdfaa9f03ebc035297136627c239d5
 
 
 ---
@@ -52,15 +53,15 @@ Follow these steps to configure the properties of the workflow.
 ## <a name="configure-the-elements-of-the-workflow"></a>Configure the elements of the workflow
 Configure each element that you dragged onto the canvas. For information about how to configure each workflow element, see the following topics:
 
--   [Configure a manual task](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-a-manual-task)
--   [Configure an automated task](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-an-automated-task)
--   [Configure an approval process](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-an-approval-process)
--   [Configure an approval step](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-an-approval-step)
--   [Configure a manual decision](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-a-manual-decision)
--   [Configure a conditional decision](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-a-conditional-decision)
--   [Configure a parallel activity](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-a-parallel-activity)
+-   [Configure a manual task](configure-manual-task-workflow.md)
+-   [Configure an automated task](configure-automated-task-workflow.md)
+-   [Configure an approval process](configure-approval-process-workflow.md)
+-   [Configure an approval step](configure-approval-step-workflow.md)
+-   [Configure a manual decision](configure-manual-decision-workflow.md)
+-   [Configure a conditional decision](configure-conditional-decision-workflow.md)
+-   [Configure a parallel activity](configure-parallel-activity-workflow.md)
 -   [Configure a parallel branch](http://ax.help.dynamics.com/en/wiki/configure-a-parallel-branch/)
--   [Configure a line-item workflow](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-a-line-item-workflow)
+-   [Configure a line-item workflow](configure-line-item-workflow.md)
 
 ## <a name="resolve-any-errors-or-warnings"></a>Resolve any errors or warnings
 The **Errors and warnings** pane at the bottom of the workflow editor shows messages that have been generated for the workflow. To find the element where an error or warning occurred, double-click the error or warning message. You must resolve all errors and warnings before you can make the workflow active.

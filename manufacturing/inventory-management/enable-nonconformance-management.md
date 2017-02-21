@@ -1,24 +1,25 @@
 ---
-title: Nonconformance management | Microsoft Docs
+title: Nonconformance management
 description: This article describes the basic setup that is required in order to use nonconformances. Additional setup is required if you want to use quality orders.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-01-07 16:32:12
+ms.date: 2016-01-07 16 - 32 - 12
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventParameters, InventProblemType, InventProblemTypeSetup, InventQuarantineZone, InventTestDiagnosticType, InventTestReportSetup, SysUserManagement
+ms.search.form: InventParameters, InventProblemType, InventProblemTypeSetup, InventQuarantineZone, InventTestDiagnosticType, InventTestReportSetup, SysUserManagement
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 28951
-ms.assetid: 1e8cc28e-0570-4c0d-b01a-77e2a81df2ad
-ms.region: Global
+ms.assetid: 259c6736-9b31-47a8-a716-970acb650ebf
+ms.search.region: Global
 ms.author: perlynne
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: a740c80b3ec9b156ed2110db372fc202fc282a33
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 3c3fe3bd075903c5913562009311f40b4409c1f8
 
 
 ---
@@ -47,7 +48,7 @@ To enable nonconformance management, follow these steps:
 
 [Create and process a non conformance](https://ax.help.dynamics.com/en/wiki/create-and-process-a-nonconformance/)
 
-[Quality management processes](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/inventory-management/quality-management-processes)
+[Quality management processes](quality-management-processes.md)
 
 [Set up prerequisites for non-conformance management](https://ax.help.dynamics.com/en/wiki/set-up-prequisites-for-nonconformance-management/)
 

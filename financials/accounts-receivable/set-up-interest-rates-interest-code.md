@@ -1,23 +1,24 @@
 ---
-title: Set up interest rates for an interest code | Microsoft Docs
+title: Set up interest rates for an interest code
 description: Interest codes contain settings that determine when interest is charged and how it is calculated on overdue accounts.
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-03-07 20:15:38
+ms.date: 2016-03-07 20 - 15 - 38
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 59402
-ms.assetid: cea90453-ce10-4b5d-bdb6-76b21b8971c9
-ms.region: Global
+ms.assetid: a985f1c6-aa77-4135-b613-b371d8d5d4fb
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: c476c909279f7b9654af170fcf1a90be678ce929
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 5bf2f49766640199e82001ebe63679c51ea4f774
 
 
 ---

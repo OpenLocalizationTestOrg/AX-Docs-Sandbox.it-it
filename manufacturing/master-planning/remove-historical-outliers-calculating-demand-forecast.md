@@ -1,25 +1,26 @@
 ---
-title: Remove outliers from historical transaction data when calculating a demand forecast | Microsoft Docs
+title: Remove outliers from historical transaction data when calculating a demand forecast
 description: This article describes how to exclude outliers from the historical data that is used to calculate a demand forecast. By excluding outliers, you can improve forecast accuracy.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-03-30 12:34:01
+ms.date: 2016-03-30 12 - 34 - 01
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ReqDemPlanForecastParameters, ReqDemPlanOutlierQuerySetup
+ms.search.form: ReqDemPlanForecastParameters, ReqDemPlanOutlierQuerySetup
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 72621
-ms.assetid: 4c3068cf-1270-4ab5-8505-6d7d74866e93
-ms.region: global
-ms.industry: Manufacturing
+ms.assetid: 4342c5d1-d8e3-4ec9-84c9-d7804aff3e9a
+ms.search.region: global
+ms.search.industry: Manufacturing
 ms.author: roxanad
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 54af1a0990e8e353b1525fa1e879900677ad6daf
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 1b99f7123cbf20076fc6a687bd3ceda303a12bb6
 
 
 ---
@@ -41,9 +42,9 @@ You can exclude outliers to improve forecast accuracy. This is an optional task.
 <a name="see-also"></a>See also
 --------
 
-[Introduction to demand forecasting](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/introduction-to-dynamics-ax7-demand-forecasting)
+[Introduction to demand forecasting](introduction-demand-forecasting.md)
 
-[Monitoring forecast accuracy](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/monitoring-forecast-accuracy)
+[Monitoring forecast accuracy](monitor-forecast-accuracy.md)
 
 
 

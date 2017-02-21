@@ -1,25 +1,26 @@
 ---
-title: Modeling a lean organization | Microsoft Docs
+title: Modeling a lean organization
 description: The article provides information about the key concepts in modeling a lean organization.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-24 15:08:43
+ms.date: 2016-02-24 15 - 08 - 43
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LeanProductionFlow, PlanActivity
+ms.search.form: LeanProductionFlow, PlanActivity
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 53141
-ms.assetid: 72acf662-e9c0-4592-9934-119aea106f7d
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: ebd249e3-759a-4dfb-ba52-c0478d8ef6bb
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: conradv
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 5fc692385273f3d264d35db67f61538f58a7ada7
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 4a608303128cdfc32cc81c8da89ef9598b82d3fe
 
 
 ---

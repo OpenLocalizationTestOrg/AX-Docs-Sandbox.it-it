@@ -1,25 +1,27 @@
 ---
-title: Calculations for product configuration models FAQ | Microsoft Docs
+title: Calculations for product configuration models FAQ
 description: This article describes calculations for product configuration models and explains how to use calculations together with constraints.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-07 09:11:25
+ms.date: 2015-12-07 09 - 11 - 25
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: PCConstraintEditor, PCProductConfigurationModelDetails, PCRuntimeConfigurator
+ms.search.form: PCConstraintEditor, PCProductConfigurationModelDetails, PCRuntimeConfigurator
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 19191
-ms.assetid: bb016f94-45cc-4a88-bdb5-3fcc59088d08
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: b4c5ca7d-1e0b-491f-ba62-d4888114e2cd
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 2764a3cd09c47fb0b99959bcc7f60d61aed2f9db
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 843504b42bb757561f53d8c8ab75f352e01a6022
 
 
 ---

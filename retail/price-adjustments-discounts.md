@@ -1,24 +1,26 @@
 ---
-title: Price adjustments and discounts | Microsoft Docs
+title: Price adjustments and discounts
 description: This article provides information about price adjustments and discounts in Retail and commerce in Microsoft Dynamics 365 for Operations.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-03 21:02:28
+ms.date: 2015-12-03 21 - 02 - 28
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 15891
-ms.assetid: 9b085051-38c6-4acc-9282-3d5d9e77e4f4
-ms.region: global
-ms.industry: Retail
+ms.assetid: f80bf68d-8b1e-44e8-8bad-90a99e047726
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: scotttuc
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 300152dff3041323cee69c6c86f69fdee53c4020
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 500886cc2a10908559a4d35ddb7f40a5aec68250
 
 
 ---

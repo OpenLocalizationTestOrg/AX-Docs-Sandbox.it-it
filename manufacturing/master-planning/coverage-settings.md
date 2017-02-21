@@ -1,25 +1,27 @@
 ---
-title: Coverage settings | Microsoft Docs
+title: Coverage settings
 description: Master scheduling uses coverage settings to calculate item requirements.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-09-10 08:46:42
+ms.date: 2015-09-10 08 - 46 - 42
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ReqGroup, ReqItemTable, ReqItemTableWizard
+ms.search.form: ReqGroup, ReqItemTable, ReqItemTableWizard
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 2494
-ms.assetid: b8efd7d6-4ac4-49c6-98e9-e992a78a59ca
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 70c0198a-a9a8-4cd6-8165-a856839f6aaf
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: roxanad
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 7c62239d2833eb3a7179e04cee76979fa13536c0
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: b955753c0276af64f35c2ad3efa9c1516c62c2e0
 
 
 ---
@@ -47,7 +49,7 @@ You can specify coverage settings in several ways:
 <a name="see-also"></a>See also
 --------
 
-[Master plans](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/master-plans)
+[Master plans](master-plans.md)
 
 
 

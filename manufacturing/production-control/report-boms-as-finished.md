@@ -1,25 +1,26 @@
 ---
-title: Report BOMs as finished | Microsoft Docs
+title: Report BOMs as finished
 description: This article provides information about reporting BOMs as finished.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-24 15:12:15
+ms.date: 2016-02-24 15 - 12 - 15
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BOMReportFinish, BOMReportFinishMax
+ms.search.form: BOMReportFinish, BOMReportFinishMax
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 53251
-ms.assetid: 826bd09f-6fb3-4651-99ec-1f901cb5b084
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 474c34b4-f3da-403b-b204-6da194336acc
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: johanho
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 23f0513b51d4da6ef4da974939243e5f02bc86b5
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 0a8c5199fc93cda25b46fe10099e11fb2329a9d8
 
 
 ---

@@ -1,25 +1,27 @@
 ---
-title: Register serial numbers in the sales process | Microsoft Docs
+title: Register serial numbers in the sales process
 description: This articles explains how you can register serial numbers on packing slips or invoices during the sales process. This functionality is useful if a company wants to capture serial numbers for service and warranty purposes, but doesn&quot;t have to maintain serial numbers in inventory from receipt to issue.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-01-07 16:23:41
+ms.date: 2016-01-07 16 - 23 - 41
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: EcoResTrackingDimensionGroup, InventTrackingRegisterTrans, SalesEditLines, SalesTable
+ms.search.form: EcoResTrackingDimensionGroup, InventTrackingRegisterTrans, SalesEditLines, SalesTable
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 28931
-ms.assetid: 387cb580-f91d-49ba-908c-3dad8852d90b
-ms.region: Global
-ms.industry: Distribution
+ms.assetid: 72138fdc-2f02-497d-b434-96040d06dd8b
+ms.search.region: Global
+ms.search.industry: Distribution
 ms.author: sorenand
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 9365296a6c572aa35d2525e7d5480ded26ba03f6
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 3d3782cb1fd446ea789ba5d0934437a9d2ebdf80
 
 
 ---

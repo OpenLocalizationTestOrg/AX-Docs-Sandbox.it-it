@@ -1,24 +1,25 @@
 ---
-title: Split payment for invoices issued to the Public Administration | Microsoft Docs
+title: Split payment for invoices issued to the Public Administration
 description: This topic provides information about the split payment accounting schema.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-02 21:05:15
+ms.date: 2016-12-02 21 - 05 - 15
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: TaxBookSection, TaxGroup
+ms.search.form: TaxBookSection, TaxGroup
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 261314
-ms.assetid: 4d8250ee-bae2-4d5a-a401-1d4546152586
-ms.region: Italy
+ms.assetid: d2b9aa13-5a24-48d3-91b6-fb95f7dc0900
+ms.search.region: Italy
 ms.author: epopov
+ms.dyn365.intro: Nov-16
+ms.dyn365.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 0a892b8124c4586bfa2ec9d524aad2b35ea3dffe
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: d4b97114edfd7b536c04edbf16f093e6a7ea3492
 
 
 ---

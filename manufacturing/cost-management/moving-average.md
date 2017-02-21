@@ -1,25 +1,27 @@
 ---
-title: Moving average | Microsoft Docs
+title: Moving average
 description: 
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-03-17 15:16:47
+ms.date: 2016-03-17 15 - 16 - 47
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventModelGroup
+ms.search.form: InventModelGroup
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 65531
-ms.assetid: 88b0e221-24d8-4251-8f26-1ddfee4dc2ea
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 17076aaf-13fc-4e22-abe2-3c266ad73c8a
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: adf1c449a8c85d096f00e25f45acfd787bfaf51f
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 2eb5b807a368a3ed611bccd9735bfb1cce8ac849
 
 
 ---

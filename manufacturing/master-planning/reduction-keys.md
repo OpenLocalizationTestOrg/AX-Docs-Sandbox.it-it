@@ -1,25 +1,27 @@
 ---
-title: Reduction keys | Microsoft Docs
+title: Reduction keys
 description: This articles provides examples that show how to set up a reduction key. It includes information about the various reduction key settings and the results of each. You can use a reduction key to define how to reduce forecast requirements.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-07 09:16:13
+ms.date: 2015-12-07 09 - 16 - 13
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ReqPlanSched
+ms.search.form: ReqPlanSched
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 19251
-ms.assetid: 5c995833-03b3-4258-ad25-d3a7d11353a3
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: f1b957f4-3866-4b41-bdec-c62409371133
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: roxanad
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 3e6d55e89725758f6e8c5857b5ea75457818811a
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 7c52e33c9d367490560e3de8b4e403429a4f13cf
 
 
 ---
@@ -126,7 +128,7 @@ Here is a summary of **Transactions - dynamic period** reduction:
 <a name="see-also"></a>See also
 --------
 
-[Master plans](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/master-plans)
+[Master plans](master-plans.md)
 
 
 

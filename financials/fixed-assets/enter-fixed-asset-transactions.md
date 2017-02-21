@@ -1,24 +1,26 @@
 ---
-title: Fixed asset transaction options | Microsoft Docs
+title: Fixed asset transaction options
 description: This article describes the different methods available to create fixed asset transactions.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-11 22:58:38
+ms.date: 2015-12-11 22 - 58 - 38
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetTable, PurchCreateOrder
+ms.search.form: AssetTable, PurchCreateOrder
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 23061
-ms.assetid: eec29cba-f5c3-4f0f-960b-bb3ed9baff86
-ms.region: Global
+ms.assetid: e07f958a-ab13-49d1-8694-bec98c967c96
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 91863f16f3bb253bf1af7b65edf143a2b8bd2f6d
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 9abb39b2aa209b6e6946cef68815e299f6a05b50
 
 
 ---
@@ -61,7 +63,7 @@ Any fixed asset transaction type can be posted in the General journal page. You 
 <a name="see-also"></a>See also
 --------
 
-[Fixed assets integration](https://docs.microsoft.com/en-us/dynamics365/operations/financials/fixed-assets/fixed-assets-integration)
+[Fixed assets integration](fixed-asset-integration.md)
 
 
 

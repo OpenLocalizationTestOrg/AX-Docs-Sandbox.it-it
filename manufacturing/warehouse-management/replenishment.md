@@ -1,25 +1,26 @@
 ---
-title: Replenishment | Microsoft Docs
+title: Replenishment
 description: This article describes the replenishment strategies that are available for warehouses that use the functionality that is available in Warehouse management.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-06-09 11:18:31
+ms.date: 2016-06-09 11 - 18 - 31
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: WHSReplenishmentTemplates
+ms.search.form: WHSReplenishmentTemplates
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 90043
-ms.assetid: 19446763-955a-4be9-9216-b35695c9141c
-ms.region: Global
-ms.industry: Distribution
+ms.assetid: 5c9c503d-2c6e-43ae-b2ef-66aae4efbc2a
+ms.search.region: Global
+ms.search.industry: Distribution
 ms.author: mirzaab
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 39f0402e509a95afc89545a23a7106c92d2db432
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 55c5fbca9de29dfcb2c39a38e09267aa2b8c4b3a
 
 
 ---

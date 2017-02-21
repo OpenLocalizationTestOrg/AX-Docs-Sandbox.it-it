@@ -1,24 +1,25 @@
 ---
-title: Customer orders overview | Microsoft Docs
+title: Customer orders overview
 description: This topic provides information about customer orders in Retail Modern POS (MPOS). Customer orders are also known as special orders. The topic includes a discussion of related parameters and transaction flows.
 author: josaw1
 manager: AnnBe
-ms.date: 2016-11-30 21:04:59
+ms.date: 2016-11-30 21 - 04 - 59
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 41
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 260594
-ms.assetid: bf984574-9a7d-43c7-981f-128fb169f729
-ms.region: global
-ms.industry: Retail
+ms.assetid: f0cfd181-88d8-4367-8c14-e894dfd201e0
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: anpurush
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: cf6a13f9e685f8f1bd13d84c7f6f146ca2b41b8c
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: e949f751e71ff5e816185bd6aa4df3b23ba5329b
 
 
 ---
@@ -92,7 +93,7 @@ When the **Create customer order in async mode** option is set to **Yes**, custo
 <a name="see-also"></a>See also
 --------
 
-[Hybrid customer orders](https://docs.microsoft.com/en-us/dynamics365/operations/retail/hybrid-customer-orders)
+[Hybrid customer orders](hybrid-customer-orders.md)
 
 
 

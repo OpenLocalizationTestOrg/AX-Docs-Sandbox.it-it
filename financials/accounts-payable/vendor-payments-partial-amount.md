@@ -1,24 +1,26 @@
 ---
-title: Vendor payments for a partial amount | Microsoft Docs
+title: Vendor payments for a partial amount
 description: Sometimes, you might make a payment to a vendor that is less than the amount of an invoice. This article describes the various options for handling this situation. The options that are available to you depend on your business requirements and configuration.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:22:17
+ms.date: 2015-12-02 23 - 22 - 17
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerJournalTransVendPaym, VendOpenTrans
+ms.search.form: LedgerJournalTransVendPaym, VendOpenTrans
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14321
-ms.assetid: 13f782b6-c487-4646-8d93-db769bf59131
-ms.region: Global
+ms.assetid: 95aa69ab-131b-4b40-a884-fa05ab935b82
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: be51b468ea98764340973439b9b4f466ee506236
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: a57a867cd1634de6ff94384d2b7eeaaef1435d2f
 
 
 ---

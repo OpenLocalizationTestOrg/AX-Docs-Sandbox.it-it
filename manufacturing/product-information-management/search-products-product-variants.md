@@ -1,25 +1,26 @@
 ---
-title: Search for products and product variants during order entry | Microsoft Docs
+title: Search for products and product variants during order entry
 description: Use the <strong>Item number </strong>field to search for products and product variants when you manually create a sales order line or a purchase order line.  This lets you quickly find product variants when you only have the configuration string or one of the product dimensions available.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-11-02 09:16:27
+ms.date: 2016-11-02 09 - 16 - 27
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: MCRFullTextIndexField, MCRFullTextParameters, PurchTable, SalesTable
+ms.search.form: MCRFullTextIndexField, MCRFullTextParameters, PurchTable, SalesTable
 audience: Application User
-ms.reviewer: 121
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 248534
-ms.assetid: 943cd738-851b-4e62-b9b7-537cc6cfce2b
-ms.region: global
-ms.industry: Manufacturing
+ms.assetid: c7ba513b-347e-4004-b1e2-8a8016b39639
+ms.search.region: global
+ms.search.industry: Manufacturing
 ms.author: roxanad
+ms.dyn365.ops.intro: Nov-16
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 8b0ecb9a39f7d0e1ef503307cb345ba829858a09
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 17a1688e355e730f9d4e53070b27d4f7a05fb2aa
 
 
 ---

@@ -1,32 +1,33 @@
 ---
-title: Product number nomenclature | Microsoft Docs
-description: This topic describes how you can set up a product number nomenclature to replace the fixed format, [Product master number:Configuration:Size:Color:Style], with a targeted format that includes the product master number, active product dimensions, and text delimiters of your choice. You can also build a nomenclature to identify configurations that are created by the constraint-based product configurator. These nomenclatures can contain attributes of your choice.
+title: Product number nomenclature
+description: This topic describes how you can set up a product number nomenclature to replace the fixed format, [Product master number - Configuration - Size - Color - Style], with a targeted format that includes the product master number, active product dimensions, and text delimiters of your choice. You can also build a nomenclature to identify configurations that are created by the constraint-based product configurator. These nomenclatures can contain attributes of your choice.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-10-31 12:44:47
+ms.date: 2016-10-31 12 - 44 - 47
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: EcoResNomenclature, EcoResProductDimensionGroup, EcoResProductVariantMaintainWorkspace, PCProductConfigurationModelDetails
+ms.search.form: EcoResNomenclature, EcoResProductDimensionGroup, EcoResProductVariantMaintainWorkspace, PCProductConfigurationModelDetails
 audience: Application User
-ms.reviewer: 121
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 220104
-ms.assetid: 0c2f64ca-b164-4a9c-85b4-009ccc0a12f7
-ms.region: global
-ms.industry: Manufacturing
+ms.assetid: 0dbeba95-478f-4e21-9d15-9397abc35c79
+ms.search.region: global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: Nov-16
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: e536b8e5c7f54d159fa7ea006dce357ec69a9bab
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 42f332faa3e1f26cd78b4eb510ecf0f9c13c3697
 
 
 ---
 
 # <a name="product-number-nomenclature"></a>Product number nomenclature
 
-This topic describes how you can set up a product number nomenclature to replace the fixed format, [Product master number:Configuration:Size:Color:Style], with a targeted format that includes the product master number, active product dimensions, and text delimiters of your choice. You can also build a nomenclature to identify configurations that are created by the constraint-based product configurator. These nomenclatures can contain attributes of your choice.
+This topic describes how you can set up a product number nomenclature to replace the fixed format, [Product master number - Configuration - Size - Color - Style], with a targeted format that includes the product master number, active product dimensions, and text delimiters of your choice. You can also build a nomenclature to identify configurations that are created by the constraint-based product configurator. These nomenclatures can contain attributes of your choice.
 
 The new product variant number nomenclature lets you include segments in your product variant identifiers. These segments can include the product master number, product dimensions, number sequences, text constants, and attributes. This functionality lets you quickly find a specific product variant when you create a sales order or purchase order.
 

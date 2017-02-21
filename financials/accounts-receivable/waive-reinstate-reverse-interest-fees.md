@@ -1,23 +1,24 @@
 ---
-title: Waive, reinstate, or reverse interest fees | Microsoft Docs
+title: Waive, reinstate, or reverse interest fees
 description: This article explains how to waive, reinstate, and reverse charges for interest and fees.
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-03-07 21:15:32
+ms.date: 2016-03-07 21 - 15 - 32
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 59461
-ms.assetid: 809659f6-f24e-4989-88f2-e605c301c7aa
-ms.region: Global
+ms.assetid: 34095ffc-6191-42d2-9cfc-a9e489333f68
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: adaa827c15d6268767653ecf306cf80f7fe628d0
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: f69a06baccb3e7db4aaaf32939199efa89c6a0ad
 
 
 ---

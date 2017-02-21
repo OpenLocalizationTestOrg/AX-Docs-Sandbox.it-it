@@ -1,25 +1,26 @@
 ---
-title: Production order cost analysis | Microsoft Docs
+title: Production order cost analysis
 description: This article provides information about the cost analysis that you can do for completed and current production orders. You can analyze the estimated costs and actual costs by using the Price calculation page or the Cost estimates and costings report. You can view information about the estimated and actual costs (and quantity) for each component item, the routing operation, and the indirect cost.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-04-11 13:25:42
+ms.date: 2016-04-11 13 - 25 - 42
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventCostTrans, ProdCalcTrans, ProdTableJour, ProdTableListPage
+ms.search.form: InventCostTrans, ProdCalcTrans, ProdTableJour, ProdTableListPage
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 79634
-ms.assetid: 941b736f-d07e-4157-bc37-2dd82f179db8
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: a4863ecc-b87f-4b7f-9253-fb54fa89f801
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: bf320857f4bb617c98d9fbb4bb44b48429baa10b
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 28445f7a1c4f4fb46404bd58d9f91ffd01d2f267
 
 
 ---
@@ -53,7 +54,7 @@ Separate reports provide information about each type of transaction. Use these r
 <a name="see-also"></a>See also
 --------
 
-[Common sources of production variances](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/cost-management/common-sources-of-production-variances)
+[Common sources of production variances](common-sources-of-production-variances.md)
 
 
 

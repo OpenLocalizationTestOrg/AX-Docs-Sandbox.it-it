@@ -1,23 +1,24 @@
 ---
-title: Cost controlling mobile workspace for Microsoft Dynamics 365 for Operations app | Microsoft Docs
+title: Cost controlling mobile workspace for Microsoft Dynamics 365 for Operations app
 description: With the Cost controlling mobile workspace, cost center managers can see the cost center performance anytime and anywhere.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2017-01-12 16:53:04
+ms.date: 2017-01-12 16 - 53 - 04
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 121
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 267114
-ms.assetid: 58c39f06-32fd-44d5-b3b7-f891da825d57
-ms.region: global
+ms.assetid: 97b14032-e93e-4eed-92b9-fc211ff68472
+ms.search.region: global
 ms.author: yuyus
+ms.dyn365.ops.intro: Nov-16
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 972144d42f0ad22ee63d58314bf34f3d2d310510
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 6233752b8161087789374a684dbc7f72b14d6fcd
 
 
 ---
@@ -31,7 +32,7 @@ With the Cost controlling mobile workspace, cost center managers can see the cos
 
 | Prerequisite                                                         | Description                                                                                                                                                                   |
 |----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Read about the Microsoft Dynamics 365 for Operations mobile platform | [Dynamics 365 for Operations mobile platform](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/mobile-apps/mobile-development-handbook)                                                              |
+| Read about the Microsoft Dynamics 365 for Operations mobile platform | [Dynamics 365 for Operations mobile platform](mobile-platform.md)                                                              |
 | Dynamics 365 for Operations                                          | Be sure that you’re using an environment that has Microsoft Dynamics 365 for Operations version 1611 and Microsoft Dynamics for Operations platform update 3 (November 2016). |
 | Hotfix KB 3215650                                                    | Install the hotfix to enable the workspaces that are provided in Microsoft Dynamics 365 for Operations.                                                                       |
 | Mobile device that has the Dynamics 365 for Operations app installed | Download the Dynamics 365 for Operations app from your mobile app store.                                                                                                      |

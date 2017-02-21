@@ -1,24 +1,25 @@
 ---
-title: Warehouse mobile device display settings | Microsoft Docs
+title: Warehouse mobile device display settings
 description: This article describes how to set up the appearance of a mobile device display and map keyboard shortcuts to controls such as buttons.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-01-11 09:54:20
+ms.date: 2016-01-11 09 - 54 - 20
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: SysUserSetup, WHSRFColor, WHSRFColorPicker, WHSWorkUserDisplaySettings
+ms.search.form: SysUserSetup, WHSRFColor, WHSRFColorPicker, WHSWorkUserDisplaySettings
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 29071
-ms.assetid: 8a88616b-7f1b-4f6e-8fbe-8ea6db218de1
-ms.region: Global
+ms.assetid: 1193ec65-b0ea-469c-adbe-5f5e4a347f9c
+ms.search.region: Global
 ms.author: perlynne
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 486921c44aa68372c5ab23b93613e72650bc60a2
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: cff66ca971cf8a71e8cfe8fe375828297e571caf
 
 
 ---
@@ -95,7 +96,7 @@ You can specify more than one expression in the same file. Each expression must 
 <a name="see-also"></a>See also
 --------
 
-[Configuration of mobile devices for warehouse work](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/warehouse-management/configure-mobile-devices-for-warehouse-work)
+[Configuration of mobile devices for warehouse work](configure-mobile-devices-warehouse_work.md)
 
 
 

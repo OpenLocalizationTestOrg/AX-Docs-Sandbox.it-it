@@ -1,25 +1,26 @@
 ---
-title: Costing versions | Microsoft Docs
+title: Costing versions
 description: This article provides information about costing versions, how to maintain them, and the types of data that you can include in them. The primary purpose of a costing version is to contain cost records about items, cost categories, and calculation formulas for indirect costs.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-24 17:58:56
+ms.date: 2016-02-24 17 - 58 - 56
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BOMCalcDialog, BOMCalcTable, CostingVersion
+ms.search.form: BOMCalcDialog, BOMCalcTable, CostingVersion
 audience: Application User
-ms.reviewer: 121
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 54532
-ms.assetid: 2049ec37-7b72-4c7d-8429-04b5d07c06c4
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: cbb03fa3-6199-4228-bcdb-1f8f8d8814fd
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 004b33d9a16dd46e77e2678a1f823d2d3b983faf
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 951201b6070578152610dc1d1e08b22c7646539b
 
 
 ---

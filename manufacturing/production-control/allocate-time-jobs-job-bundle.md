@@ -1,25 +1,27 @@
 ---
-title: Allocate time to jobs in a job bundle | Microsoft Docs
+title: Allocate time to jobs in a job bundle
 description: In Manufacturing execution, you can bundle jobs. You can then start multiple jobs at the same time on the Job list page.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-25 13:04:25
+ms.date: 2016-02-25 13 - 04 - 25
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: JmgBundleSlize, JmgProdParameters, JmgRegistration
+ms.search.form: JmgBundleSlize, JmgProdParameters, JmgRegistration
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 55591
-ms.assetid: f48f9381-04b5-49f9-bdc9-4646511881ea
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: cc2dc250-f2c1-45e2-bb5d-44b35d800369
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: johanho
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 5b4812e74227520b2d97c4f2a17332f37e6cb11e
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: e8c994978a1d78cc859487a9741559d0d1a43185
 
 
 ---

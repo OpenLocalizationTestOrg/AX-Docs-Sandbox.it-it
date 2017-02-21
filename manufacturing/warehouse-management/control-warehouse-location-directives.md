@@ -1,24 +1,25 @@
 ---
-title: Control warehouse work by using work templates and location directives | Microsoft Docs
+title: Control warehouse work by using work templates and location directives
 description: This article describes how to use work templates and location directives to determine how and where work is carried out in the warehouse.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-03-30 13:17:44
+ms.date: 2016-03-30 13 - 17 - 44
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: WHSLocDirFailure, WHSLocDirHint, WHSLocDirTable, WHSLocDirTableUOM, WHSRFMenuItem, WHSWork, WHSWorkClass, WHSWorkPool, WHSWorkTemplateTable
+ms.search.form: WHSLocDirFailure, WHSLocDirHint, WHSLocDirTable, WHSLocDirTableUOM, WHSRFMenuItem, WHSWork, WHSWorkClass, WHSWorkPool, WHSWorkTemplateTable
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 72921
-ms.assetid: d5014a16-7b28-41e9-911b-b2c61f7b045e
-ms.region: Global
+ms.assetid: 9d2aaf15-fc27-45e7-816f-ef3b9f9a0b35
+ms.search.region: Global
 ms.author: perlynne
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 0234150b98a95dfe7a8e05a97a8fd6f9e5b47104
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 9dd8bb1462e5b5e017b72205c5cbe1262548caae
 
 
 ---

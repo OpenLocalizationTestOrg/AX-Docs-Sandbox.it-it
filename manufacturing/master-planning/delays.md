@@ -1,25 +1,27 @@
 ---
-title: Delays | Microsoft Docs
+title: Delays
 description: This article provides information about delayed dates in master planning. A delayed date is a realistic due date that a transaction receives if the earliest fulfillment date that master planning calculates is later than the requested date.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-07 09:17:45
+ms.date: 2015-12-07 09 - 17 - 45
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ReqTransFuturesListPage
+ms.search.form: ReqTransFuturesListPage
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 19311
-ms.assetid: 6d38b248-83c4-4e60-a0a6-aef5d29365c7
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 50cf0e73-6ea8-4c28-b21c-a03a4a389d6a
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: roxanad
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: be66feaf0b10e447cdf7428b440b6431756af899
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: a7ef29590e954a7e6e8eda5248cbf50979ec47d2
 
 
 ---
@@ -33,7 +35,7 @@ Master planning can calculate the earliest fulfillment date for a transaction, b
 <a name="see-also"></a>See also
 --------
 
-[Coverage settings](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/coverage-settings)
+[Coverage settings](coverage-settings.md)
 
 
 

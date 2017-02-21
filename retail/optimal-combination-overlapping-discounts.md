@@ -1,24 +1,26 @@
 ---
-title: Determine the optimal combination of overlapping discounts | Microsoft Docs
+title: Determine the optimal combination of overlapping discounts
 description: "When discounts overlap, you must determine the combination of overlapping discounts that will produce the lowest transaction total or the highest total discount. When the discount amount varies according to the price of the products that are purchased, such as in the common “Buy 1, get 1 X percent off” (BOGO) retail discount, this process becomes an issue of combinatorial optimization."
 author: kfend
 manager: AnnBe
-ms.date: 2016-06-08 17:38:06
+ms.date: 2016-06-08 17 - 38 - 06
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
 ms.reviewer: kfend
-ms.suite: Released- Dynamics AX application 7.0.1
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 89643
-ms.assetid: b448dcc4-4cd4-462d-9c3a-dc8a21978a09
-ms.region: global
-ms.industry: Retail
+ms.assetid: 1109cc19-74c4-406c-a5d0-e0207ab1585b
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: kfend
+ms.dyn365.ops.intro: May-16
+ms.dyn365.ops.version: AX 7.0.1
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: d557ffa7674893204e28a6d3f12ad4473754046f
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: b4f789dbf07dfe66ad396c5a4fb27d5a03090e9b
 
 
 ---

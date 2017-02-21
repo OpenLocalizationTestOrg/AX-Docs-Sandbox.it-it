@@ -1,24 +1,26 @@
 ---
-title: Fixed asset disposal posting accounts | Microsoft Docs
+title: Fixed asset disposal posting accounts
 description: This article explains how to set up general ledger posting accounts for disposing of assets.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-09-10 21:04:08
+ms.date: 2015-09-10 21 - 04 - 08
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetPosting
+ms.search.form: AssetPosting
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 3461
-ms.assetid: 4e68c9d3-d90b-403b-b9e5-4fa259dce6fc
-ms.region: Global
+ms.assetid: fb07b5b8-7a31-40c0-b3ec-4495f36b3a4a
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: b53c44ea697d1fe8722d883de69892c538e1c2fc
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: a0d56dad0dc93a1f53a99b698df515641fb1afd6
 
 
 ---

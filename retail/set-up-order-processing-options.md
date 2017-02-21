@@ -1,24 +1,25 @@
 ---
-title: Set up order processing options | Microsoft Docs
+title: Set up order processing options
 description: This topic provides information about how to process orders for call centers using Microsoft Dynamics 365 for Operations - Retail.
 author: josaw1
 manager: AnnBe
-ms.date: 2016-04-07 15:11:36
+ms.date: 2016-04-07 15 - 11 - 36
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 41
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 78973
-ms.assetid: 0419a1c0-8c18-42cf-90db-ae03bf438b0c
-ms.region: global
-ms.industry: Retail
+ms.assetid: 02aa31de-86bd-44e1-96ea-5f79fa1aecf3
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: josaw
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 87be50f75d62b76fb68a56b82476296dcd48ceed
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: acbea1e853baa74ee334a99fd003fc2557bab113
 
 
 ---

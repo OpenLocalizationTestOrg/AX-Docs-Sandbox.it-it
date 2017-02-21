@@ -1,23 +1,25 @@
 ---
-title: Recalculate replacement costs and insured values for fixed asset groups | Microsoft Docs
+title: Recalculate replacement costs and insured values for fixed asset groups
 description: This article explains the process to update the replacement costs and insured values for fixed assets.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-09-10 20:42:26
+ms.date: 2015-09-10 20 - 42 - 26
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 3261
-ms.assetid: 10c116a5-3926-4e39-a88c-596d8658f8d7
-ms.region: Global
+ms.assetid: 93aa5baf-f692-41e0-8856-afd87005e51d
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 597e8fad8673242a874d7c5e907ae07908bbe880
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: bcb2e77cbfd8686068008d1b47ec6f1fa91af9c1
 
 
 ---

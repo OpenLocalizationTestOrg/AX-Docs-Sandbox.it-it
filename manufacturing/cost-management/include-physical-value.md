@@ -1,25 +1,26 @@
 ---
-title: Include physical value | Microsoft Docs
+title: Include physical value
 description: You use the Include physical value check box on the Inventory model FastTab of the Item model groups page to specify whether physically updated transactions are considered when the running average cost price is calculated for an item.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-04-07 15:11:58
+ms.date: 2016-04-07 15 - 11 - 58
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventModelGroup
+ms.search.form: InventModelGroup
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 79033
-ms.assetid: d4f27aa6-0d5d-49eb-bcf4-259a0f770349
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 2e960385-a74d-4a6d-81b8-dce30d990560
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 3df709d296fde5efd8bbccb6ff3688f7203b7923
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 6463b35c912b5da392751d3008ba34dc8be86c0d
 
 
 ---

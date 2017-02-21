@@ -1,24 +1,26 @@
 ---
-title: Sales tax overview | Microsoft Docs
+title: Sales tax overview
 description: This article provides an overview of the sales tax system. It explains the elements of the sales tax setup and how they work together.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-12-01 16:58:30
+ms.date: 2015-12-01 16 - 58 - 30
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: TaxAuthority, TaxPeriod, TaxTable
+ms.search.form: TaxAuthority, TaxPeriod, TaxTable
 audience: Application User
 ms.reviewer: ShylaThompson
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13111
-ms.assetid: 28c267ad-784c-47b8-9ed8-f75c7d14fa5d
-ms.region: Global
+ms.assetid: 6b6c3a23-ad04-40a8-956b-29d632d045bd
+ms.search.region: Global
 ms.author: vstehman
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 191c1c05c6b1b8d9718e1233fa3f1ae1f7eb859e
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 8fa54d036007a5f5f281d70d0108549954c16f21
 
 
 ---
@@ -48,7 +50,7 @@ The sales tax framework supports many types of indirect taxes, such as sales tax
 On every transaction (sales/purchase document lines, journals, and so on), you must enter a sales tax group and an item sales tax group to calculate sales tax. Default groups are specified in master data (for example, customer, vendor, item, and procurement category), but you can manually change the groups on a transaction if you must. Both groups contain a list of sales tax codes, and the intersection of the two lists of sales tax codes determines the list of applicable sales tax codes for the transaction. On every transaction, you can look up the calculated sales tax by opening the **Sales tax transaction** page. You can look up the sales tax for a document line or for the whole document. For certain documents (for example, vendor invoice and general journals), you can adjust the calculated sales tax if the original document shows deviant amounts.
 
 ## <a name="sales-tax-settlement-and-reporting"></a>Sales tax settlement and reporting
-Sales tax must be reported and paid to tax authorities at regulated intervals (monthly, quarterly, and so on). Microsoft Dynamics 365 for Operations provides functionality that lets you settle tax accounts for the interval and offset the balances to the tax settlement account, as specified in the ledger posting groups. You can access this functionality on the **Settle and post sales tax** page. You must specify the sales tax settlement period that sales tax should be settled for. After the sales tax has been paid, the balance on the sales tax settlement account should be balanced against the bank account. If the sales tax authority that is specified on the sales tax settlement period is related to a vendor account, the sales tax balance is posted as an open vendor invoice and can be included in the regular payment proposal.
+Sales tax must be reported and paid to tax authorities at regulated intervals (monthly, quarterly, and so on). Microsoft Dynamics AX provides functionality that lets you settle tax accounts for the interval and offset the balances to the tax settlement account, as specified in the ledger posting groups. You can access this functionality on the **Settle and post sales tax** page. You must specify the sales tax settlement period that sales tax should be settled for. After the sales tax has been paid, the balance on the sales tax settlement account should be balanced against the bank account. If the sales tax authority that is specified on the sales tax settlement period is related to a vendor account, the sales tax balance is posted as an open vendor invoice and can be included in the regular payment proposal.
 
 <a name="see-also"></a>See also
 --------

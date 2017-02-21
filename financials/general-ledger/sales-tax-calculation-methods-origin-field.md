@@ -1,24 +1,26 @@
 ---
-title: Sales tax calculation methods in the Origin field | Microsoft Docs
+title: Sales tax calculation methods in the Origin field
 description: This article explains the options in the Origin field on the sales tax codes page and how sales tax is calculated based on the selected option for a sales tax code.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-09-14 07:29:34
+ms.date: 2015-09-14 07 - 29 - 34
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: TaxTable
+ms.search.form: TaxTable
 audience: Application User
 ms.reviewer: ShylaThompson
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 4464
-ms.assetid: f7d85888-4d61-41af-b89e-40bafb21abb3
-ms.region: Global
+ms.assetid: edeeefff-cbdc-4a0d-919b-c35f5e470252
+ms.search.region: Global
 ms.author: vstehman
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 5d496d5099a414e974159a17bbd1aa12030d3484
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 0d9cb028e930b7eeb5e8928665ca9001c814cc93
 
 
 ---

@@ -1,24 +1,25 @@
 ---
-title: Inventory statuses | Microsoft Docs
+title: Inventory statuses
 description: This article describes how you can use inventory statuses to categorize and keep track of inventory.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-09 14:54:45
+ms.date: 2015-12-09 14 - 54 - 45
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: EcoResStorageDimensionGroup, WHSInventStatus
+ms.search.form: EcoResStorageDimensionGroup, WHSInventStatus
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 21331
-ms.assetid: 731d88e2-9680-448b-b589-31e1480362c2
-ms.region: Global
+ms.assetid: c5a73580-1a54-470e-aaef-0861ca9791b1
+ms.search.region: Global
 ms.author: mafoge
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 0a6159317fe23442e2b4ea43931cee2a731ac4e0
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 2882da681ebcb45668b6e50531df31b580d9e44a
 
 
 ---

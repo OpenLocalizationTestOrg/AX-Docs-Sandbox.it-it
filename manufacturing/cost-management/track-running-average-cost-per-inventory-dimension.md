@@ -1,25 +1,26 @@
 ---
-title: Tracking running average cost per inventory dimension | Microsoft Docs
+title: Tracking running average cost per inventory dimension
 description: An inventory dimension group is attached to every inventory item. Therefore, the running average cost price of an item is calculated based on the selected inventory dimensions that are being tracked financially.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-03-31 12:51:05
+ms.date: 2016-03-31 12 - 51 - 05
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventOnhandItem
+ms.search.form: InventOnhandItem
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 75053
-ms.assetid: 9cd24fbd-ab83-4d26-9094-142691fb7d57
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: c1a7503a-6f19-4d06-8dfc-9bf12b2f888e
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 40b05e909b1c4bf2ec85dc5064f314ee5c840e96
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: bf66bf8aedba274f04896359e3062695de317d9a
 
 
 ---

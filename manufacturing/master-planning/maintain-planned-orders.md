@@ -1,25 +1,27 @@
 ---
-title: Maintain planned orders | Microsoft Docs
+title: Maintain planned orders
 description: This article provides information about how to manage planned orders. It describes how you can update the status of planned orders, firm them, and filter for planned orders that have the same status as a selected planned order.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-07 09:10:45
+ms.date: 2015-12-07 09 - 10 - 45
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ReqTransPo
+ms.search.form: ReqTransPo
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 19151
-ms.assetid: 6a89d125-e004-4710-b9f2-46e5bd895a6c
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 43d94a7b-7707-498e-90d9-bc63e104b432
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: roxanad
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6ca2dd9de622b5d0fade485bcf29a2622fb5e4e2
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 30ba95441f7b4656f29459882f091172f3f4addb
 
 
 ---
@@ -45,7 +47,7 @@ When a planned order is firmed, it's moved to the orders section of the relevant
 <a name="see-also"></a>See also
 --------
 
-[Master plans](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/master-plans)
+[Master plans](master-plans.md)
 
 
 

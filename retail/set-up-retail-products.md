@@ -1,24 +1,25 @@
 ---
-title: Set up retail products | Microsoft Docs
+title: Set up retail products
 description: This article describes how to set up retail products in Microsoft Dynamics 365 for Operations - Retail.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-03 22:19:34
+ms.date: 2015-12-03 22 - 19 - 34
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 2041
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 16181
-ms.assetid: a29d885d-b59b-4dea-b158-3908468c809f
-ms.region: global
-ms.industry: Retail
+ms.assetid: c89fee68-6288-479a-9d6b-cb04fa6b1325
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: jeffbl
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f4aab402ac2496c4568aedf243d5ddc224299ce5
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 590fc67bf0abd94cd8a432362f275d03da88be88
 
 
 ---

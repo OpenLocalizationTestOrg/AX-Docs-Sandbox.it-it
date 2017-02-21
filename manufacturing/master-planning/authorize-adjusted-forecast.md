@@ -1,25 +1,26 @@
 ---
-title: Authorize an adjusted forecast | Microsoft Docs
+title: Authorize an adjusted forecast
 description: Not all forecast data must be authorized immediately. This article explains how you can specify the period that a forecast is authorized for. It also explains how you can authorize the forecast for specific companies and forecast models.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-03-30 12:35:48
+ms.date: 2016-03-30 12 - 35 - 48
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ReqDemPlanImportForecastDialog
+ms.search.form: ReqDemPlanImportForecastDialog
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 72734
-ms.assetid: 98bae996-7c21-4643-be11-fd72b05d9b01
-ms.region: global
-ms.industry: Manufacturing
+ms.assetid: 1337f3c6-4630-4376-8373-14d854412918
+ms.search.region: global
+ms.search.industry: Manufacturing
 ms.author: roxanad
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6701ef48350272e43629ba134480186317097194
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: be7160b1a0e8795ae73e1a4916d3c172268eff61
 
 
 ---
@@ -33,9 +34,9 @@ Not all forecast data must be authorized immediately. You can specify the start 
 <a name="see-also"></a>See also
 --------
 
-[Making manual adjustments to the baseline forecast](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/making-manual-adjustments-to-the-baseline-forecast)
+[Making manual adjustments to the baseline forecast](manual-adjustments-baseline-forecast.md)
 
-[Monitoring forecast accuracy](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/monitoring-forecast-accuracy)
+[Monitoring forecast accuracy](monitor-forecast-accuracy.md)
 
 
 

@@ -1,24 +1,25 @@
 ---
-title: Approve and confirm purchase orders | Microsoft Docs
+title: Approve and confirm purchase orders
 description: This article describes the statuses that a purchase order (PO) goes through after it has been created, and the effect of enabling change management on POs.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-06-16 14:19:17
+ms.date: 2016-06-16 14 - 19 - 17
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: PurchTable
+ms.search.form: PurchTable
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 93143
-ms.assetid: f8da00c1-aa28-4623-ae07-69d29ea6aa14
-ms.region: Global
+ms.assetid: 34ec2f8a-5668-4526-bc72-c52715cf7ef0
+ms.search.region: Global
 ms.author: fdahl
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 52ea5dd1627b86f5344992d7183cc5312172af47
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 062751706ab0d0e1bcb6c2b8aa25d0652ee30157
 
 
 ---
@@ -55,13 +56,13 @@ In some situations, you might have to change a PO after it has reached an approv
 <a name="see-also"></a>See also
 --------
 
-[Purchase order overview](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/procurement-sourcing/purchase-order-overview)
+[Purchase order overview](purchase-order-overview.md)
 
-[Purchase order creation](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/procurement-sourcing/purchase-order-creation)
+[Purchase order creation](purchase-order-creation.md)
 
-[Product receipt against purchase orders](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/procurement-sourcing/product-receipt-against-purchase-orders)
+[Product receipt against purchase orders](product-receipt-against-purchase-orders.md)
 
-[Overview of vendor invoices](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/vendor-invoices-overview)
+[Overview of vendor invoices](vendor-invoices-overview.md)
 
 
 

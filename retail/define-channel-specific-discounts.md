@@ -1,33 +1,34 @@
 ---
-title: Define channel-specific discounts | Microsoft Docs
+title: Define channel-specific discounts
 description: Retailers often set different discounts in different channels. This topic reviews the concepts you need to know to create a discount for a specific channel.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-04 02:13:00
+ms.date: 2015-12-04 02 - 13 - 00
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: RetailAffiliationPriceGroup, RetailCatalogPriceGroup, RetailChannelPriceGroup, RetailDiscountPriceGroup, RetailDiscountPricingWorkspace, RetailPeriodicDiscount, RetailStoreItemPriceList, RetailStoreTable
+ms.search.form: RetailAffiliationPriceGroup, RetailCatalogPriceGroup, RetailChannelPriceGroup, RetailDiscountPriceGroup, RetailDiscountPricingWorkspace, RetailPeriodicDiscount, RetailStoreItemPriceList, RetailStoreTable
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 16401
-ms.assetid: f30803bb-4fed-409e-ac7b-443e1fa30e78
-ms.region: global
-ms.industry: Retail
+ms.assetid: 65285b34-7eda-404f-9d70-8df9c5e4c458
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: scotttuc
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 23839c06bb5933f5bb72340b6c6096023a531c68
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: e7f041e683a89f5b69cb5c2bf59765bdd9716f71
 
 
 ---
 
 # <a name="define-channel-specific-discounts"></a>Define channel-specific discounts
 
-Retailers often set different discounts in different channels. This topic reviews the concepts you need to know to create a discount for a specific channel.
-
+Retailers often set different discounts in different channels. This topic reviews the concepts you need to know to create a discount for a specific channel. 
 
 <a name="channel-specific-discounts"></a>Channel-specific discounts
 --------------------------

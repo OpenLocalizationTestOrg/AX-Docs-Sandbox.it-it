@@ -1,24 +1,25 @@
 ---
-title: Hybrid customer orders | Microsoft Docs
+title: Hybrid customer orders
 description: A hybrid customer order is a single order, which contains products that can be carried out of the store by the customer, as well as products that will be picked up or shipped later.
 author: josaw1
 manager: AnnBe
-ms.date: 2016-12-02 19:53:25
+ms.date: 2016-12-02 19 - 53 - 25
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 41
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 261164
-ms.assetid: 52fa810b-8cdc-4ad3-9b50-6ad02dba896e
-ms.region: global
-ms.industry: Retail
+ms.assetid: bbbc6ca7-8321-446d-8800-f2c2aae6cac1
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: anpurush
+ms.dyn365.ops.intro: Nov-16
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 0c99fc07fcac88a500cc47a3c8af456a777646c1
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 82a9823f84c522e555d7c4abfe9f28f7f80a1714
 
 
 ---
@@ -37,7 +38,7 @@ If a cart line is selected and **Pick selected**, **Ship selected**, or **Carry 
 <a name="see-also"></a>See also
 --------
 
-[Customer orders overview](https://docs.microsoft.com/en-us/dynamics365/operations/retail/customer-orders-overview)
+[Customer orders overview](customer-orders-overview.md)
 
 
 

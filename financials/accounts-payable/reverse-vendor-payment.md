@@ -1,24 +1,26 @@
 ---
-title: Reverse a vendor payment | Microsoft Docs
+title: Reverse a vendor payment
 description: This article describes the differences between reversing, deleting, voiding, and rejecting a payment. Additionally, it explains the two methods for reversing a vendor check.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:23:28
+ms.date: 2015-12-02 23 - 23 - 28
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BankChequeTable, LedgerJournalTransBankChequeReversal, LedgerJournalTransVendPaym
+ms.search.form: BankChequeTable, LedgerJournalTransBankChequeReversal, LedgerJournalTransVendPaym
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14361
-ms.assetid: f6b758c2-7933-4531-ac84-8880029ad301
-ms.region: Global
+ms.assetid: 7d0fcf74-8353-4468-a5be-58fc021388ac
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: fc28b2c4eee23dcb29e33f74a43fef6e9694a4a4
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 4b4d235df81a1542ccdb804ca9c29b1b51a5862e
 
 
 ---

@@ -1,23 +1,25 @@
 ---
-title: Project resourcing | Microsoft Docs
+title: Project resourcing
 description: This topic provides information about project resourcing.
 author: rschloma
 manager: AnnBe
-ms.date: 2016-04-13 17:38:35
+ms.date: 2016-04-13 17 - 38 - 35
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 82022
-ms.assetid: 851bbd9e-390d-4944-9d7a-19c3c11ec325
-ms.region: Global
+ms.assetid: e1d9df6b-897b-49d7-bd01-9b81dab5a7cf
+ms.search.region: Global
 ms.author: cmercado
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 644c37cc751157ff101c65a2221337735281cd6d
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 3f3cef7162e1140d87bdeb432a3fb72c51472f26
 
 
 ---

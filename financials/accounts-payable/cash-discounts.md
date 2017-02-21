@@ -1,24 +1,26 @@
 ---
-title: Cash discounts | Microsoft Docs
+title: Cash discounts
 description: Cash discounts are setup and shared for Accounts payable and Accounts receivable.  The cash discount available can be defined on the customer invoice or vendor invoice, and will be taken if the invoice is paid within the cash discount date.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-09-10 21:10:56
+ms.date: 2015-09-10 21 - 10 - 56
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CashDisc
+ms.search.form: CashDisc
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 3741
-ms.assetid: b6cce4e8-9aad-42ac-b949-cd4f7c909836
-ms.region: Global
+ms.assetid: ea4e573c-a9cd-4137-aa4e-ea090ad7e366
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: b6aabf9d6bbf6768a57e448a2054d1377a1f7874
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 22258aa4f5b7a4e0e737e4df5c7448e8b479dfed
 
 
 ---
@@ -66,7 +68,10 @@ An invoice for 1000 USD with cash discount terms of 20D2% is posted on February 
  
 =
 
- 
+Send [comments](http://go.microsoft.com/fwlink/?LinkID=248681','Customer%20Feedback');) about this topic to Microsoft Dynamics AX Content Publishing Team.
+Build date: 2015-05-05 \[18:44\]
+
+
 
 
 

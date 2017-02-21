@@ -1,24 +1,26 @@
 ---
-title: Settlement overview | Microsoft Docs
+title: Settlement overview
 description: This article provides general information about the settlement process. It describes the types of transactions that can be settled, when and how transactions can be settled, and the results of the settlement process.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:32:42
+ms.date: 2015-12-02 23 - 32 - 42
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustOpenTrans, LedgerJournalTransCustPaym, LedgerJournalTransVendPaym, VendOpenTrans
+ms.search.form: CustOpenTrans, LedgerJournalTransCustPaym, LedgerJournalTransVendPaym, VendOpenTrans
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14551
-ms.assetid: 34ca575b-f1e8-49b2-8e24-fc53e393eb8e
-ms.region: Global
+ms.assetid: 74348f4a-a6eb-4f1f-91d7-bf33f35902a2
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 9bbaef24f3b09a5b1fa26e4a97f7dfaff03a0a47
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: b86a95b8c4bf170dde225c88215dd88b4983b6b0
 
 
 ---
@@ -36,7 +38,7 @@ Settlement within Accounts payable and Account receivable can occur between any 
 Transactions can be settled at the time of payment entry. For example, when you make a payment to a vendor, you typically select the invoices to pay. By selecting invoices, you mark them for settlement against the payment. When Accounts Receivable payment clerks record a customer payment, they can mark the appropriate invoices for settlement, based on the information that is included with the customer's payment. The **Settle transactions** page is used to mark transactions for settlement. This page can be opened from any unposted invoice or payment. When the transaction is posted, the settlement is also posted. Transactions can also be settled after they are posted. You can enter and post a customer payment without settling it against any invoices. However, you might have to do research first, to make sure that the payment is settled against the correct invoice. The **Settle transactions** page can be opened from the **All customers** or **All vendors** page, or from the **Transactions** page for any customer or vendor. You can also reserve posted prepayments for an invoice by marking the payment for settlement against a purchase order or sales order. In this case, the payment will still have an open balance, but it can't be settled against another invoice. The payment will be automatically settled against the invoice that is created from the purchase order or sales order.
 
 ## <a name="how-to-settle-transactions"></a>How to settle transactions
-Transactions can be settled manually, automatically, or by using a combination of the two methods. The choice of a settlement method depends on business processes, which can then be implemented through the setup of settlement in Accounts payable parameters and Accounts receivable parameters. You can create vendor payments and customer direct debit payments by using a payment proposal, which is used to select invoices to pay. The payment proposal is manually initiated, but then Microsoft Dynamics 365 for Operations automatically marks the selected invoices for settlement when the payments are created. If payments are created manually, you can use the **Settle transactions** page to select invoices for settlement. You can manually select the invoices, or you can use the **Mark by priority** option to have invoices automatically marked for settlement. The **Mark by priority** option is available only for Accounts receivable. To enable this option, use the **Settlement priority** page in Accounts receivable parameters. If a payment clerk enters a payment, but doesn’t settle that payment before he or she posts it, the payment can be automatically settled. You can enable automatic settlement in Accounts receivable parameters and Accounts payable parameters. When you use automatic settlement, you can use the predefined settlement order, or you can define your own settlement priority order in Accounts receivable parameters. This functionality is available only for Accounts receivable.
+Transactions can be settled manually, automatically, or by using a combination of the two methods. The choice of a settlement method depends on business processes, which can then be implemented through the setup of settlement in Accounts payable parameters and Accounts receivable parameters. You can create vendor payments and customer direct debit payments by using a payment proposal, which is used to select invoices to pay. The payment proposal is manually initiated, but then Microsoft Dynamics AX automatically marks the selected invoices for settlement when the payments are created. If payments are created manually, you can use the **Settle transactions** page to select invoices for settlement. You can manually select the invoices, or you can use the **Mark by priority** option to have invoices automatically marked for settlement. The **Mark by priority** option is available only for Accounts receivable. To enable this option, use the **Settlement priority** page in Accounts receivable parameters. If a payment clerk enters a payment, but doesn’t settle that payment before he or she posts it, the payment can be automatically settled. You can enable automatic settlement in Accounts receivable parameters and Accounts payable parameters. When you use automatic settlement, you can use the predefined settlement order, or you can define your own settlement priority order in Accounts receivable parameters. This functionality is available only for Accounts receivable.
 
 ## <a name="results-of-settlement"></a>Results of settlement
 As transactions are settled, the outstanding balance of each transaction is increased or decreased as appropriate. In a typical scenario, where an invoice and payment are settled, the status and balance of each transaction is updated according to the following rules:
@@ -45,7 +47,7 @@ As transactions are settled, the outstanding balance of each transaction is incr
 -   If the payment amount is less than the invoice amount, the payment balance is reduced to 0.00, and the payment is closed. The invoice remains open, and the balance is the amount by which the payment underpaid the invoice.
 -   If the payment amount equals the invoice amount, both the payment and the invoice are closed, and the balance of both is 0.00.
 
-If a [payment is less than the invoice amount](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/vendor-payments-for-a-partial-amount) because of a cash discount, write-off, or underpayment, the invoice and payment might still be closed, depending on the setup of settlement in Accounts payable parameters and Accounts receivable parameters. Settlement can also generate transactions. For example, the settlement of an invoice and payment might produce a cash discount, realized gain or loss, sales tax adjustments, write-offs, or penny differences.
+If a [payment is less than the invoice amount](vendor-payments-partial-amount.md) because of a cash discount, write-off, or underpayment, the invoice and payment might still be closed, depending on the setup of settlement in Accounts payable parameters and Accounts receivable parameters. Settlement can also generate transactions. For example, the settlement of an invoice and payment might produce a cash discount, realized gain or loss, sales tax adjustments, write-offs, or penny differences.
 
 
 

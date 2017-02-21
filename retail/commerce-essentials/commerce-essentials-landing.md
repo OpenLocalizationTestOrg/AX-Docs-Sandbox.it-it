@@ -1,24 +1,25 @@
 ---
-title: Commerce essentials | Microsoft Docs
+title: Commerce essentials
 description: This page lists the resources that are available for Commerce essentials in Dynamics 365 for Operations.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-09 18:39:27
+ms.date: 2015-12-09 18 - 39 - 27
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 41
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 21411
-ms.assetid: a80168e9-8be3-4df0-8505-248c2e141cf1
-ms.region: global
-ms.industry: Retail
+ms.assetid: fcbb6fd6-3d13-42a6-8988-6a8f8e42f6af
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: josaw
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 4b987f79472509db475756837d8700b4d2678890
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: ee7801691012c782e631f79af409bc4955fa7de8
 
 
 ---
@@ -30,10 +31,10 @@ This page lists the resources that are available for Commerce essentials in Dyna
 <a name="overview"></a>Overview
 --------
 
--   [Commerce essentials overview](https://docs.microsoft.com/en-us/dynamics365/operations/retail/commerce-essentials)
+-   [Commerce essentials overview](commerce-essentials.md)
 
 ## <a name="working-with-commerce-essentials"></a>Working with Commerce essentials
--   [Working with organizations and organizational hierarchies (Commerce essentials)](https://docs.microsoft.com/en-us/dynamics365/operations/retail/working-with-organizations-and-organizational-hierarchies-commerce-essentials)
+-   [Working with organizations and organizational hierarchies (Commerce essentials)](organizational-hierarchies-commerce-essentials.md)
 
 ## <a name="additional-resources"></a>[]()Additional resources
 -   Additional help is available as task guides inside Dynamics 365 for Operations. To access task guides, click the Help button on any page.

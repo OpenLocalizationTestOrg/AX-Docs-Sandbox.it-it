@@ -1,25 +1,26 @@
 ---
-title: Cost object dimensions | Microsoft Docs
+title: Cost object dimensions
 description: When you analyze costs, you use cost element dimensions to determine where costs flow to. You use cost object dimensions to determine where you should assign costs. This topic provides information about cost object dimensions.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-11-01 13:17:57
+ms.date: 2016-11-01 13 - 17 - 57
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CAMDimensionMember
+ms.search.form: CAMDimensionMember
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 223174
-ms.assetid: 275efd15-6be2-4305-9e64-91dd2373a601
-ms.region: global
-ms.industry: Manufacturing
+ms.assetid: 976fd34d-d322-4835-9e1f-46836a6ee444
+ms.search.region: global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.intro: Nov-16
+ms.dyn365.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 07f410fcc7dee847e334faa15b4002b56f1820fd
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 558af5194cac93047d9887803923bb91f6f5847f
 
 
 ---

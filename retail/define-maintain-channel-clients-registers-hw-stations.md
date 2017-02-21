@@ -1,24 +1,25 @@
 ---
-title: Define and maintain channel clients, registers, and hardware stations | Microsoft Docs
+title: Define and maintain channel clients, registers, and hardware stations
 description: This wiki covers how to connect peripherals to your Retail POS.
 author: josaw1
 manager: AnnBe
-ms.date: 2016-06-15 20:49:33
+ms.date: 2016-06-15 20 - 49 - 33
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 41
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 92383
-ms.assetid: ee540011-e7d8-4fcf-84fc-86c0190d14f9
-ms.region: global
-ms.industry: Retail
+ms.assetid: d50ddb5b-0262-4afc-b7be-6ce5da569c5b
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: rubendel
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: aaa0f80b62f51bb526cce83972ae21c0324e90ec
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 83773f79522c5f358494380d24486b58d1f429e6
 
 
 ---
@@ -27,7 +28,7 @@ ms.openlocfilehash: aaa0f80b62f51bb526cce83972ae21c0324e90ec
 
 This wiki covers how to connect peripherals to your Retail POS.
 
-**Note:** For specific installation instructions, see [Retail hardware station configuration and installation](https://docs.microsoft.com/en-us/dynamics365/operations/retail/retail-hardware-station-configuration-and-installation) and [Retail Modern POS self-service download/installation, and device activation of Modern POS and Cloud POS](https://docs.microsoft.com/en-us/dynamics365/operations/retail/retail-modern-pos-and-device-activation-scenarios).
+**Note:** For specific installation instructions, see [Retail hardware station configuration and installation](retail-hardware-station-configuration-installation.md) and [Retail Modern POS self-service download/installation, and device activation of Modern POS and Cloud POS](retail-modern-pos-device-activation.md).
 
 ## <a name="key-components"></a>Key components
 Several components are used to define the relationships among a store, the point-of-sale (POS) registers or channels within the store, and the retail peripherals that those registers or channels use to process transactions. This section describes each component and explains how it should be used in a retail store deployment.
@@ -104,7 +105,7 @@ The functionality profile is set at the store level. It's used to specify store-
     -   Maximum and minimum prices that are allowed.
     -   Discount application and calculation.
 -   **Info codes** FastTab:
-    -   All aspects of how info codes are managed at the POS. For details, see [Info codes](https://docs.microsoft.com/en-us/dynamics365/operations/retail/about-info-codes-retail).
+    -   All aspects of how info codes are managed at the POS. For details, see [Info codes](info-codes-retail.md).
 -   **Receipt numbering** FastTab:
     -   Specify receipt numbering masks, which might include segments for the store number, terminal number, constants, and whether sales, returns, sales orders, and quotations are printed in separate sequences, or whether they all following the same sequence.
 

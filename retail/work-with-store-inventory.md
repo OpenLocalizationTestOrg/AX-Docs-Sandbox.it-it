@@ -1,24 +1,25 @@
 ---
-title: Manage store inventory | Microsoft Docs
+title: Manage store inventory
 description: This article describes the types of documents that you can use to manage inventory.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-09 18:39:11
+ms.date: 2015-12-09 18 - 39 - 11
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: josaw1
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 21391
-ms.assetid: 9bdb9854-ff74-4522-869a-3208a79b81e3
-ms.region: global
-ms.industry: Retail
+ms.assetid: 1a990296-9f8b-40e5-8c30-def0d7f280e9
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: rubendel
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: a1aedcd80e238a86593663b03bf5c0ed7b4b2302
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: c481c67a0172e244f76c17a62f0237e71ec0c985
 
 
 ---

@@ -1,23 +1,24 @@
 ---
-title: Set up SEPA direct debit mandate | Microsoft Docs
+title: Set up SEPA direct debit mandate
 description: 
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-03-07 21:16:37
+ms.date: 2016-03-07 21 - 16 - 37
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 59491
-ms.assetid: ba45f59d-db66-409d-ae4f-51cd1fdc87f6
-ms.region: Global
+ms.assetid: 0e0c312d-6f56-4eeb-b3ce-0f9c4e054ee4
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f509d3c197cfdcb1548e26219fa0960dc376c011
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: ac6261c987c517659b83aa341774d087fe93d711
 
 
 ---

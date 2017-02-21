@@ -1,25 +1,26 @@
 ---
-title: Update standard costs for a new manufactured item | Microsoft Docs
+title: Update standard costs for a new manufactured item
 description: This article provides guidance for updating standard costs for a new manufactured item.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-04-11 13:26:17
+ms.date: 2016-04-11 13 - 26 - 17
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CostingVersion, InventStdCostConv
+ms.search.form: CostingVersion, InventStdCostConv
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 79693
-ms.assetid: c0de064e-174c-43d4-a965-c422b28e627e
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 886d1410-2d05-43a1-83ac-4fcd8d8f2455
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: eaac75b0f24264c323b5ca8056e318ed50b9ef97
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: e401c6debf13f1795a25e321395e6db3fbc79108
 
 
 ---

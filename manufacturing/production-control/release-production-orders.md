@@ -1,25 +1,27 @@
 ---
-title: Release production orders | Microsoft Docs
+title: Release production orders
 description: A released production order is an order that has been authorized for production. The term Released is used to describe a state in the production order life cycle, where the production order is available for execution on the production shop floor and for warehouse processes.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-09-10 08:43:17
+ms.date: 2015-09-10 08 - 43 - 17
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ProdParmRelease
+ms.search.form: ProdParmRelease
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 2414
-ms.assetid: 23ca0804-7f2f-4624-9be1-7b3d9014d91c
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 54f968dc-9080-467e-9a02-ec489a849abd
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: johanho
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f082a7a7e393f7cc7bdf8f79fd7b2301c1f7663a
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 08b78c1bb65d0f5dcae230dea1c965e5709dbf34
 
 
 ---

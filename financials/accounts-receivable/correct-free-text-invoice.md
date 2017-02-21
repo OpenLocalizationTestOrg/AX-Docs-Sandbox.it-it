@@ -1,24 +1,26 @@
 ---
-title: Correct a free text invoice | Microsoft Docs
+title: Correct a free text invoice
 description: This article explains how to correct a free text invoice that has been posted and reissue it as a corrected invoice.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:03:17
+ms.date: 2015-12-02 23 - 03 - 17
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustFreeInvoice
+ms.search.form: CustFreeInvoice
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13991
-ms.assetid: 8b632102-d0b1-4bd5-9096-93896c3e130d
-ms.region: Global
+ms.assetid: 3db2a6f1-25b1-49d8-a9c0-614a6ce67e40
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: aff03d8e24fc0b8dd739ce0f98baa4a4dbaf6738
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 54b545a6fcd6d6040d29dcde5e3936d06417f0d1
 
 
 ---

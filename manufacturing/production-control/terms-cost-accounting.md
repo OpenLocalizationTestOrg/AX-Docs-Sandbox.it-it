@@ -1,25 +1,26 @@
 ---
-title: Cost accounting terminology | Microsoft Docs
+title: Cost accounting terminology
 description: This topic defines the key terms that are used in Cost accounting.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-11-01 12:35:53
+ms.date: 2016-11-01 12 - 35 - 53
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CAMCostControlWorkspace, CAMCostControlWorkspaceConfiguration
+ms.search.form: CAMCostControlWorkspace, CAMCostControlWorkspaceConfiguration
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 223114
-ms.assetid: f618536d-2fa9-4d3f-b651-7cc3dbedc3d4
-ms.region: global
-ms.industry: Manufacturing
+ms.assetid: b45efcc5-3efb-4c4b-bfa5-50c163b89a66
+ms.search.region: global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: Nov-16
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 830168b384917516a861677ccff10d00a5bba447
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 6d840916334db1ff470cc255abd81b56d5f6cc45
 
 
 ---

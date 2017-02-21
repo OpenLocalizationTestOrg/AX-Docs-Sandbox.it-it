@@ -1,24 +1,25 @@
 ---
-title: Project invoicing | Microsoft Docs
+title: Project invoicing
 description: This article provides an overview of project invoicing for Time and material projects and Fixed-price projects. It includes information about invoice proposals (preliminary invoices), invoice control, on-account invoicing, vendor invoicing, and credit notes.
-author: kfend
+author: annbe
 manager: AnnBe
-ms.date: 2015-12-11 22:59:30
+ms.date: 2015-12-11 22 - 59 - 30
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ProjInvoiceCashFlow, ProjInvoiceControl, ProjInvoiceListPage, ProjInvoiceProposalDetail, ProjInvoiceProposalListPage
+ms.search.form: ProjInvoiceCashFlow, ProjInvoiceControl, ProjInvoiceListPage, ProjInvoiceProposalDetail, ProjInvoiceProposalListPage
 audience: Application User, IT Pro
-ms.reviewer: 51
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 23111
-ms.assetid: fb33cb19-2fb4-49ef-b82a-597a2f7fe1b6
-ms.region: Global
-ms.author: kfend
+ms.assetid: f35086ae-fde6-4f86-84a5-88ac72509f1d
+ms.search.region: Global
+ms.author: annbe
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 9fec977187830a2da2e6cdcb9c66bb0ef21b5b7c
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 90c8619eb342112140620686bac525584d03dd26
 
 
 ---

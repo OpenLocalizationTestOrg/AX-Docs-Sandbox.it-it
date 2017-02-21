@@ -1,23 +1,24 @@
 ---
-title: Create a customer invoice | Microsoft Docs
+title: Create a customer invoice
 description: 
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-04-04 23:11:36
+ms.date: 2016-04-04 23 - 11 - 36
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 77772
-ms.assetid: e0c819ed-af95-4597-b4c2-c70038325737
-ms.region: Global
+ms.assetid: 885dbda3-f5ee-40df-b61e-c3ff4c075fb3
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 224c4976ab03da592acf977b3d86fff99ce33db7
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 47ef995c387ce5407ebb66fd2090ba14d07e5430
 
 
 ---

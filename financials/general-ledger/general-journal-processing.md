@@ -1,24 +1,26 @@
 ---
-title: General journal processing | Microsoft Docs
+title: General journal processing
 description: This articles describes capabilities in Microsoft Dynamics AX that can help make general journal processing easier, and that can also help guarantee that correct data is captured and internal control isn&quot;t compromised.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-03 20:42:19
+ms.date: 2015-12-03 20 - 42 - 19
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerJournalSetup, LedgerJournalTable
+ms.search.form: LedgerJournalSetup, LedgerJournalTable
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 15721
-ms.assetid: eb3ea40d-5734-4cb0-af80-079532e11b17
-ms.region: Global
+ms.assetid: fd00aa13-12fc-4caa-a29d-10b0a68189d8
+ms.search.region: Global
 ms.author: peakerbl
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: b51267e08a98186d4f635277dadca3648a3b8997
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 279b0fa48225ab83ed691476fc545f56102d701f
 
 
 ---
@@ -66,7 +68,7 @@ Accounting structures and advanced rules structures are extremely important for 
 <a name="see-also"></a>See also
 --------
 
-[Planning: Chart of accounts](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/planning-chart-of-accounts)
+[Planning: Chart of accounts](plan-chart-of-accounts.md)
 
 
 

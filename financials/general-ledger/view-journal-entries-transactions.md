@@ -1,24 +1,26 @@
 ---
-title: View journal entries and transactions | Microsoft Docs
+title: View journal entries and transactions
 description: This article explains the various ways that you can view journal entries and transactions.
 author: RobinARH
 manager: AnnBe
-ms.date: 2015-12-01 16:42:09
+ms.date: 2015-12-01 16 - 42 - 09
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerTransVoucher
+ms.search.form: LedgerTransVoucher
 audience: Application User
 ms.reviewer: RobinARH
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13031
-ms.assetid: 1ea48638-2eab-491d-ac37-b858dfa99706
-ms.region: Global
+ms.assetid: 6a4e80ab-4bda-4919-a4cb-10f044d0f1be
+ms.search.region: Global
 ms.author: aolson
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 4f24fb4b28e36606e0488dea42e26d8f4fba32a3
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 22be1c20a7b7638bbdcd36f236774e126d77c140
 
 
 ---
@@ -52,11 +54,11 @@ In addition to the financial reports, you can use the following ledger reports t
 <a name="see-also"></a>See also
 --------
 
-[General ledger account balances](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/general-ledger-account-balances)
+[General ledger account balances](general-ledger-account-balances.md)
 
 [Accounting source explorer](https://ax.help.dynamics.com/en/?post_type=incsub_wiki&p=245244)
 
-[Financial reporting](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/financial-reporting)
+[Financial reporting](financial-reporting-getting-started.md)
 
 
 

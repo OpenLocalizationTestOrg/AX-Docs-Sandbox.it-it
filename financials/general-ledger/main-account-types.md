@@ -1,24 +1,26 @@
 ---
-title: Main account types | Microsoft Docs
+title: Main account types
 description: The main account types determine how a main account is used in the chart of accounts.
 author: RobinARH
 manager: AnnBe
-ms.date: 2015-09-10 20:48:58
+ms.date: 2015-09-10 20 - 48 - 58
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: MainAccount
+ms.search.form: MainAccount
 audience: Application User
 ms.reviewer: RobinARH
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 3381
-ms.assetid: ca9e3c95-1ce6-4a29-bae4-f1d4b595da22
-ms.region: Global
+ms.assetid: 4fdd1924-bbf2-4902-9748-ec20492f2882
+ms.search.region: Global
 ms.author: aolson
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: be0ee5104ab7a451348f83e0867fb60a16a08c2e
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 9689c05484524069f1fcbbb17a57d5c33d7299cc
 
 
 ---

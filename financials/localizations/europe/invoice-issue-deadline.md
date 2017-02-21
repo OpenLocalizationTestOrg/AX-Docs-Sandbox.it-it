@@ -1,24 +1,26 @@
 ---
-title: Invoice issue deadline | Microsoft Docs
+title: Invoice issue deadline
 description: This article explains how to set up parameters to calculate the due dates for issuing customer invoices and vendor invoices in the European Union (EU).
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-10-27 18:58:17
+ms.date: 2015-10-27 18 - 58 - 17
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustParameters, LedgerInvoiceIssueDueDateSetup_W
+ms.search.form: CustParameters, LedgerInvoiceIssueDueDateSetup_W
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 10923
-ms.assetid: ba164a21-bc41-4199-8dae-08c651fca66e
-ms.region: Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom
+ms.assetid: 1997103b-6a86-4406-9053-0f0da14d9750
+ms.search.region: Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom
 ms.author: mrolecki
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 371a27a1e73cc772f2f53cc115d3a14e0db4cc15
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: d2bccb9b5a26c88b0d9b70fb7890ff477e05f466
 
 
 ---

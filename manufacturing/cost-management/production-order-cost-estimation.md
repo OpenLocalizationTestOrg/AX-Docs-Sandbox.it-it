@@ -1,25 +1,26 @@
 ---
-title: Production order cost estimation | Microsoft Docs
+title: Production order cost estimation
 description: This article provides information about production cost estimation. Production cost estimation provides the projected material and capacity consumption costs of producing an item in the planned production order quantity.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-04-12 16:06:35
+ms.date: 2016-04-12 16 - 06 - 35
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BOMCalcTrans, InventCostTrans, ProdCalcTrans, ProdTableJour, ProdTableListPage
+ms.search.form: BOMCalcTrans, InventCostTrans, ProdCalcTrans, ProdTableJour, ProdTableListPage
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 80633
-ms.assetid: cd04ecc7-0c72-41ae-b191-11ed2fd5551b
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: fcc154aa-6f50-4911-b4a5-0ff5f2955b03
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 66551027b702b703c7ab21f646ae732bc6e6d6f5
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 597ac8b9547f9da4302a740bc96230a7beaf9eb9
 
 
 ---

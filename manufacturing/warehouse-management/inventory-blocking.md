@@ -1,25 +1,26 @@
 ---
-title: Inventory blocking | Microsoft Docs
+title: Inventory blocking
 description: This article provides an overview of inventory blocking, which is part of the quality inspection process in Microsoft Dynamics AX. You can use inventory blocking to prevent items from being processed or consumed.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-09-10 08:05:55
+ms.date: 2015-09-10 08 - 05 - 55
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventBlocking, InventQualityOrderTable
+ms.search.form: InventBlocking, InventQualityOrderTable
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 2094
-ms.assetid: 81232769-a82f-4860-a438-91ff63a3e834
-ms.region: Global
-ms.industry: Distribution
+ms.assetid: 34afe981-2c48-4505-94b2-257abf40a0a3
+ms.search.region: Global
+ms.search.industry: Distribution
 ms.author: perlynne
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 22f59b03e86d18eb6365afac19f6092f9bb331ec
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 6957dcc2c410bfc9d06ff8ba28299cfae7d0aa28
 
 
 ---
@@ -60,7 +61,7 @@ You can specify which inventory statuses are blocking statuses by using the **In
 
 [Create and maintain an inventory blocking](https://ax.help.dynamics.com/en/wiki/create-and-maintain-an-inventory-blocking/)
 
-[Quality management processes](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/inventory-management/quality-management-processes)
+[Quality management processes](quality-management-processes.md)
 
 [Inspect the quality of goods](https://ax.help.dynamics.com/en/wiki/inspect-the-quality-of-goods/)
 

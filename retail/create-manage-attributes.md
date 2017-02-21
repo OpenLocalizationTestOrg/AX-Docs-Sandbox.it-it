@@ -1,24 +1,26 @@
 ---
-title: Create and manage attributes | Microsoft Docs
+title: Create and manage attributes
 description: This article describes attributes in Microsoft Dynamics 365 for Operations. Attributes let you describe a product and its characteristics through user-defined fields.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-04 02:16:20
+ms.date: 2015-12-04 02 - 16 - 20
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 16461
-ms.assetid: e59ad46e-5548-4504-b262-750ebcaf0806
-ms.region: global
-ms.industry: Retail
+ms.assetid: 9100e6d4-e93c-462f-8d52-e17699a6e946
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: prabhup
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 2207f116173f1c2dc20fa5ff117fe9de16036c16
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 0aaa6411d181dc98bf6db741abb5035cecaa4264
 
 
 ---

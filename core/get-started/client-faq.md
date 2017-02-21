@@ -1,23 +1,24 @@
 ---
-title: Dynamics 365 for Operations client FAQ | Microsoft Docs
+title: Dynamics 365 for Operations client FAQ
 description: This article provides answers to frequently asked questions about the Microsoft Dynamics 365 for Operations client.
 author: jasongre
 manager: AnnBe
-ms.date: 2015-11-04 19:47:08
+ms.date: 2015-11-04 19 - 47 - 08
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 12334
-ms.assetid: c5356385-07f0-4ebd-934c-998d2be6c94b
-ms.region: Global
+ms.assetid: 2b7f8ba3-aaaa-4d76-af5d-eea94754436e
+ms.search.region: Global
 ms.author: jasongre
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 154f3e7a1052cbfb79fa29aebdeccdb42701510e
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: ea5b37a4aa8fc4ce03c58f7ba6de9f4caf3fd77f
 
 
 ---

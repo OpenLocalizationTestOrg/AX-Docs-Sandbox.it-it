@@ -1,24 +1,25 @@
 ---
-title: Set up vendor accounts | Microsoft Docs
+title: Set up vendor accounts
 description: This topic describes the types of information that you must specify when you create a new vendor account.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-09-12 08:50:15
+ms.date: 2016-09-12 08 - 50 - 15
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: smmContactPerson, VendBankAccounts, VendTable
+ms.search.form: smmContactPerson, VendBankAccounts, VendTable
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 191053
-ms.assetid: 694678e0-4c79-4f56-8f68-f80564b4ad08
-ms.region: Global
+ms.assetid: ddf93060-17ad-482e-8cab-070a86f784c3
+ms.search.region: Global
 ms.author: mkirknel
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f870538f5ed8fb0629c14e4176b0489e5a190142
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 0640267a584477e481c1637b4fdfa8675c4f4bf5
 
 
 ---

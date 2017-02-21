@@ -1,24 +1,26 @@
 ---
-title: Whole amount and Interval calculation options for sales tax codes | Microsoft Docs
+title: Whole amount and Interval calculation options for sales tax codes
 description: This article explains the options for the Calculation method field on sales tax codes and how sales tax is calculated for intervals and whole amounts.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-09-14 09:43:08
+ms.date: 2015-09-14 09 - 43 - 08
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: TaxData, TaxTable
+ms.search.form: TaxData, TaxTable
 audience: Application User
 ms.reviewer: ShylaThompson
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 5624
-ms.assetid: e8352e6b-bae9-440b-89e0-eb7d92ba4613
-ms.region: Global
+ms.assetid: 057fada4-8938-491c-87fa-b5e6ab329ecd
+ms.search.region: Global
 ms.author: vstehman
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 4717c6eb8244748bb4890ff4b21f694f80fcea53
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: b9b8bbb980707330fb83c2ef39f64ceed682ba09
 
 
 ---
@@ -86,7 +88,7 @@ The sales tax is the sum of the tax amounts that are calculated for each amount 
 <a name="see-also"></a>See also
 --------
 
-[Determining sale tax rates based on the Marginal base and Calculation method fields](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/the-marginal-base-field)
+[Determining sale tax rates based on the Marginal base and Calculation method fields](marginal-base-field.md)
 
 [Sales tax calculation methods in the Origin field](https://ax.help.dynamics.com/en/wp-admin/post.php?post=79751&action=edit)
 

@@ -1,24 +1,26 @@
 ---
-title: Create a department and associate it with the department hierarchy | Microsoft Docs
+title: Create a department and associate it with the department hierarchy
 description: A department is an operating unit that represents a category or functional area of an organization. A department is responsible for a specific area of the organization, such as sales, accounting, or human resources. You can use departments to report on functional areas. Departments might have profit and loss responsibility.
 author: rschloma
 manager: AnnBe
-ms.date: 2016-03-08 22:24:49
+ms.date: 2016-03-08 22 - 24 - 49
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: HierarchyDesigner, OMOperatingUnit
+ms.search.form: HierarchyDesigner, OMOperatingUnit
 audience: Application User
 ms.reviewer: rschloma
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 63213
-ms.assetid: 9bca66d8-0053-41fa-a7db-86a8a4868c66
-ms.region: Global
+ms.assetid: e898455f-3d47-4bcf-9bef-9400774ea30a
+ms.search.region: Global
 ms.author: shielas
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 65a34904935e0751bbabd16f066351c548f6ca84
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 0317672c3fb5714120a94fad4f971e56f5f226af
 
 
 ---

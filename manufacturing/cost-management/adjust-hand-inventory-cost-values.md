@@ -1,25 +1,26 @@
 ---
-title: Adjust on-hand inventory cost values | Microsoft Docs
+title: Adjust on-hand inventory cost values
 description: Use the Adjustment of on-hand inventory page to adjust the cost value of the on-hand inventory quantities after an inventory close process is run.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-24 15:12:09
+ms.date: 2016-02-24 15 - 12 - 09
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventAdjInventOnHand
+ms.search.form: InventAdjInventOnHand
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 53231
-ms.assetid: 213e6e6d-50f4-4815-983d-43f717c13cba
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: c3c12e75-ff0c-4b74-bcfb-6965e7847bbb
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 309ead4610b107e743f7dead0d27b4b1cb5d74b6
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: c8186d27a9698d23c0ca0417b40ff6c088c15fee
 
 
 ---

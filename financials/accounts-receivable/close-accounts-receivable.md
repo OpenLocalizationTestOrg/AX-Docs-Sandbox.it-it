@@ -1,23 +1,24 @@
 ---
-title: Close Accounts receivable | Microsoft Docs
+title: Close Accounts receivable
 description: 
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-03-07 20:15:14
+ms.date: 2016-03-07 20 - 15 - 14
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 59372
-ms.assetid: 4bd170af-a16b-48a5-b4e0-4e745ef22c95
-ms.region: Global
+ms.assetid: 9ff4ad80-030a-49c0-b5a6-bdc44058c71d
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 57e6c7f55e970212ebbcaef49b1c639491a78337
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: acc8d03e56b6d0fcd14b000b30148ef960be032b
 
 
 ---

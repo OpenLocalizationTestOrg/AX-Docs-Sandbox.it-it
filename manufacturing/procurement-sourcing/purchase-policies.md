@@ -1,24 +1,25 @@
 ---
-title: Purchasing policies | Microsoft Docs
+title: Purchasing policies
 description: "This article provides information about purchasing policies. A purchasing policy is a collection of rules that control the requisition process. Purchasing policies help procurement administrators implement their procurement strategy by creating a policy structure that is aligned with the organization’s strategic purchasing requirements."
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-10-30 12:55:12
+ms.date: 2015-10-30 12 - 55 - 12
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: PurchReqSourcingPolicyRule, SysPolicy, SysPolicyListPage
+ms.search.form: PurchReqSourcingPolicyRule, SysPolicy, SysPolicyListPage
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 11614
-ms.assetid: 7f1677a9-1595-4230-82b0-bff455dd7079
-ms.region: Global
+ms.assetid: 73a8fbd0-f870-48e3-9b27-fc10609b4e98
+ms.search.region: Global
 ms.author: mkirknel
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 1d56d9de5f0491211721ba5224cfc5816f34e0bc
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: fc2bd5a6edd24e040d93551f1b36a636d6089478
 
 
 ---

@@ -1,23 +1,24 @@
 ---
-title: Configure a conditional decision in a workflow | Microsoft Docs
+title: Configure a conditional decision in a workflow
 description: Use the following procedure to configure the properties of a conditional decision.
 author: sericks007
 manager: AnnBe
-ms.date: 2016-09-30 15:55:34
+ms.date: 2016-09-30 15 - 55 - 34
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 195703
-ms.assetid: fd0c9eaf-8f57-4eb2-b8ca-e76f975ab9a3
-ms.region: Global
+ms.assetid: 25acaadc-9297-49c3-a5c1-58f631b87c27
+ms.search.region: Global
 ms.author: donaldc
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: d7bf815ecbfd5b94e46435aeb15b2c37577dfd8f
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: d9e5f89115da09f5f957d4f161783f78668a2f35
 
 
 ---

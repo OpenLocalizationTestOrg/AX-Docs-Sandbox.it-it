@@ -1,24 +1,26 @@
 ---
-title: Create a budget from transaction accounts and total accounts | Microsoft Docs
+title: Create a budget from transaction accounts and total accounts
 description: This article provides an overview of the process for creating budgets based on total accounts. It also explains how to turn on budget control for total accounts, if budget control is required.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-01 16:44:37
+ms.date: 2015-12-01 16 - 44 - 37
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BudgetControlConfiguration, BudgetPlanGenerate
+ms.search.form: BudgetControlConfiguration, BudgetPlanGenerate
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13051
-ms.assetid: 8e93ced2-1d8c-4630-8fe0-7eb635731d86
-ms.region: Global
+ms.assetid: b71c8a31-9e25-44e7-bdea-ca4732db817e
+ms.search.region: Global
 ms.author: sigitac
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: fdf82ae1c7b7a18c1e46473ef7a1ceb5714f39da
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: c2aa4bf551a83ce1c0378582f71a15bec8186304
 
 
 ---

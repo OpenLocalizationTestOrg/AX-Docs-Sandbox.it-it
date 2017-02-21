@@ -1,24 +1,26 @@
 ---
-title: Audit policy violations and cases | Microsoft Docs
+title: Audit policy violations and cases
 description: The article explains how audit cases are generated from violations of audit policy rules. It also includes information about the various ways that audit policies use the document selection date range.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-01 16:55:45
+ms.date: 2015-12-01 16 - 55 - 45
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AuditPolicyAdditionalOption, AuditPolicyRule
+ms.search.form: AuditPolicyAdditionalOption, AuditPolicyRule
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13091
-ms.assetid: 435e0f60-5c0a-49d2-9c1b-062d5f257fd9
-ms.region: Global
+ms.assetid: dee8b461-bfa4-4c86-bf25-57b5f57c5884
+ms.search.region: Global
 ms.author: ryansand
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 945d3dc9da0b4c4c83e660e1e94d0b1012302b99
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: d2d81d2d493606e3c41be4c3d9e7d589e9d29288
 
 
 ---

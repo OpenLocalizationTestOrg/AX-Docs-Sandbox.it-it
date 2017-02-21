@@ -1,25 +1,27 @@
 ---
-title: Master plans | Microsoft Docs
+title: Master plans
 description: Use various master plans to support your company&quot;s daily working operations, simulate different planning strategies that you want to monitor, and implement a company policy, such as a policy about internal performance or customer satisfaction.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-09-15 21:27:18
+ms.date: 2015-09-15 21 - 27 - 18
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ReqParameters, ReqPlanSched
+ms.search.form: ReqParameters, ReqPlanSched
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 7911
-ms.assetid: a58994c0-7230-4ae8-8d8e-71d926bfb417
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 39fbb7ce-8f69-4ee6-8d87-e96202d025d8
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: roxanad
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6728dc5c6ea4e00485c82c5bb7149c5bf0d26e1b
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 65906adbfdd5d44fd689ea29af3d3251e1af7727
 
 
 ---
@@ -45,7 +47,7 @@ You can also set up the starting dynamic plan so that it is updated with the new
 <a name="see-also"></a>See also
 --------
 
-[Coverage settings](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/coverage-settings)
+[Coverage settings](coverage-settings.md)
 
 [Separating tactical and operative planning for master scheduling](http://blogs.msdn.com/b/axmfg/archive/2012/10/12/separating-tactical-and-operative-planning-for-master-scheduling.aspx)
 

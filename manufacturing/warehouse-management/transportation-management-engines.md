@@ -1,24 +1,25 @@
 ---
-title: Transportation management engines | Microsoft Docs
+title: Transportation management engines
 description: Transportation management engines define the logic that is used to generate and process transportation rates in Transportation management.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-11-04 19:09:18
+ms.date: 2015-11-04 19 - 09 - 18
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: TMSFreightBillType, TMSGenericEngine, TMSMileageEngine, TMSRateEngine, TMSTransitTimeEngine, TMSZoneEngine
+ms.search.form: TMSFreightBillType, TMSGenericEngine, TMSMileageEngine, TMSRateEngine, TMSTransitTimeEngine, TMSZoneEngine
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 12234
-ms.assetid: 5fb8573b-4c40-4c24-bfc1-686695b1dc7e
-ms.region: Global
+ms.assetid: 74502120-a298-412e-8bb0-7c1ad8c9e2cc
+ms.search.region: Global
 ms.author: yuyus
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 438a7cb7480b3a661eed4f8a8e252e873dfaaed1
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 2db0a9f70515a16afde2fcbccf1631e61360c99c
 
 
 ---

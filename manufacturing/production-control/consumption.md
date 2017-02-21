@@ -1,25 +1,27 @@
 ---
-title: Calculate material consumption | Microsoft Docs
+title: Calculate material consumption
 description: This article provides information about various options that are related to the calculation of material consumption.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-24 15:31:42
+ms.date: 2016-02-24 15 - 31 - 42
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BOMDesignerEditBOM, BOMTable, ProdBOM
+ms.search.form: BOMDesignerEditBOM, BOMTable, ProdBOM
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 53401
-ms.assetid: d3a069a6-e775-444d-adb9-43999e4476d3
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 181f2aae-38b1-45b8-8717-42112611ab74
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: johanho
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: cf3a45030c201e576b73ebae8ddafb1ae4a28f14
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 6908efc5e6e842497c114d3cbcbedf7df1ddff8f
 
 
 ---

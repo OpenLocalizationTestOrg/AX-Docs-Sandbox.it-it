@@ -1,25 +1,27 @@
 ---
-title: Use tracing for explosion | Microsoft Docs
+title: Use tracing for explosion
 description: This article explains how you can use tracing to explore the causes behind the outcome of an order explosion.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-07 09:15:50
+ms.date: 2015-12-07 09 - 15 - 50
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ReqTransExplosion
+ms.search.form: ReqTransExplosion
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 19231
-ms.assetid: 237afc06-855c-48fc-8e6a-f64f9c914280
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 7507fd58-7a24-43c2-bcdb-0c10679421fa
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: roxanad
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6e6caeabaf7e7eb02b7f23882fe05cce95167a7c
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: d6b5d9e082148b890af8180606d6fa32178466b7
 
 
 ---

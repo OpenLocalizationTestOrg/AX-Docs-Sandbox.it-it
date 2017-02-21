@@ -1,25 +1,26 @@
 ---
-title: Common sources of production variances | Microsoft Docs
+title: Common sources of production variances
 description: This article explains various typical sources of each type of production variance.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-04-11 13:26:41
+ms.date: 2016-04-11 13 - 26 - 41
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventCostTrans
+ms.search.form: InventCostTrans
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 79753
-ms.assetid: 5b45a48e-c0e2-4287-ad65-f6e9e593e661
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 9727f10d-d102-4428-9106-1ac8d719f8db
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 75803b16061a937d135394aa18a67a92b6994a01
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: cf52def72284b869c0b6662a24d71088c22460b9
 
 
 ---

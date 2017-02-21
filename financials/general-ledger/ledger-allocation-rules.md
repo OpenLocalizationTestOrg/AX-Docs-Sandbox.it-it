@@ -1,24 +1,26 @@
 ---
-title: Ledger allocation rules | Microsoft Docs
+title: Ledger allocation rules
 description: This article provides information about ledger allocation rules. It describes the various components of these allocation rules and the allocation methods that can be used for them.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-03 20:15:45
+ms.date: 2015-12-03 20 - 15 - 45
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerAllocation, LedgerAllocationBasisRule, LedgerAllocationRequest, LedgerAllocationRule
+ms.search.form: LedgerAllocation, LedgerAllocationBasisRule, LedgerAllocationRequest, LedgerAllocationRule
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 15402
-ms.assetid: 2ad768fc-1299-4848-8b49-d0aa6ab47c15
-ms.region: Global
+ms.assetid: 34a52363-06fd-48c1-bdc4-aba8b97d1ab5
+ms.search.region: Global
 ms.author: peakerbl
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 0fad736fe38362966e9a035875d364daa27c5bbe
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 2a3de011ac1165b4d415f69ecf8ef649e9400eca
 
 
 ---

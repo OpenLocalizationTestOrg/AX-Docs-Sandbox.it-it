@@ -1,23 +1,24 @@
 ---
-title: Configure an approval process in a workflow | Microsoft Docs
+title: Configure an approval process in a workflow
 description: Use the following procedure to configure the properties of the approval process.
 author: sericks007
 manager: AnnBe
-ms.date: 2016-09-30 15:54:17
+ms.date: 2016-09-30 15 - 54 - 17
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 195643
-ms.assetid: 3ad58f0f-571f-48b3-94b1-c2b182b5f615
-ms.region: Global
+ms.assetid: 4bc062c9-6f8b-4b94-b7eb-9b01ad821dd2
+ms.search.region: Global
 ms.author: donaldc
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: d5c6435990c38c099ddbfbd39534cae8977baac6
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 3d0436ab9355c64d68ca1a701ae666909995ca68
 
 
 ---

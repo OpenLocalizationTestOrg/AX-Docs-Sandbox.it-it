@@ -1,24 +1,26 @@
 ---
-title: Centralized payments for Accounts payable | Microsoft Docs
+title: Centralized payments for Accounts payable
 description: Organizations that include multiple legal entities can create and manage payments by using a single legal entity that handles all payments. Therefore, the same payments don&quot;t have to be entered in multiple legal entities. This article provides examples that show how posting for centralized payments is handled in various scenarios.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:23:08
+ms.date: 2015-12-02 23 - 23 - 08
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerJournalTransVendPaym, VendOpenTrans
+ms.search.form: LedgerJournalTransVendPaym, VendOpenTrans
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14341
-ms.assetid: 58a463df-554e-41c9-ae65-b186340dd37a
-ms.region: Global
+ms.assetid: f940ed9a-4263-4a5b-9b6f-287f7997985a
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 7f24db922d0461090ca4149ebd75a5144530d5c6
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: ab48d5c24d091a7682c08c7fd649fa57c956642a
 
 
 ---

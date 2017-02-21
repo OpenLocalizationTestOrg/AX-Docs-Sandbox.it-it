@@ -1,24 +1,26 @@
 ---
-title: Project quotations | Microsoft Docs
+title: Project quotations
 description: This article introduces the concept of project quotations, which you can use to make an attractive offer to a customer as the first step of the project phase. A project quotation might include the items and services that are quoted, basic contact information, special trade agreements and discounts, and possible taxes and surcharges.
 author: kfend
 manager: AnnBe
-ms.date: 2015-12-11 23:26:15
+ms.date: 2015-12-11 23 - 26 - 15
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: SalesQuotationProjTable
+ms.search.form: SalesQuotationProjTable
 audience: Application User, IT Pro
 ms.reviewer: kfend
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 23621
-ms.assetid: 5e40e9ff-27a6-4a6a-a553-1ce6031557f1
-ms.region: Global
+ms.assetid: 14a489f6-7ab3-4d45-a4f5-b2c17c87b6ae
+ms.search.region: Global
 ms.author: kfend
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 650cee34c6d1f41ae4f533ed5dc052313c4908a9
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 8814076befc38a952555f09d0051beea2517f11f
 
 
 ---

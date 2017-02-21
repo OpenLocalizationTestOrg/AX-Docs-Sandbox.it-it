@@ -1,23 +1,24 @@
 ---
-title: Enter account and dimension combinations (segmented entry control) | Microsoft Docs
+title: Enter account and dimension combinations (segmented entry control)
 description: This article describes how to enter account and dimension combinations or ledger accounts. The entry experience is often referred to as segmented entry control.
 author: RobinARH
 manager: AnnBe
-ms.date: 2015-12-02 23:05:38
+ms.date: 2015-12-02 23 - 05 - 38
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14071
-ms.assetid: 27a8189b-7229-4ad2-98da-bd4057c2d048
-ms.region: Global
+ms.assetid: 77957cbe-b283-4556-af1d-f3cbbd59495b
+ms.search.region: Global
 ms.author: aolson
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 68401b9344e87e1a1f27615f48fe7849f8d2638b
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: b898097a0cc86f91df6bb54ca1d92e9b6ee0ad8e
 
 
 ---

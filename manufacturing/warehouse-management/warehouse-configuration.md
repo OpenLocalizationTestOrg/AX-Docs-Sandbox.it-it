@@ -1,24 +1,25 @@
 ---
-title: Warehouse configuration | Microsoft Docs
+title: Warehouse configuration
 description: This article explains how to configure a warehouse. It includes information about how to enable a warehouse layout and warehouse processes.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-10-30 12:52:43
+ms.date: 2015-10-30 12 - 52 - 43
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventLocation, WHSLocation, WHSLocationBuild, WHSLocationProfile, WHSLocationType, WHSLocDirTable, WHSParameters, WHSWaveTemplateTable, WHSWorkPool, WHSWorkTemplateTable, WHSZone, WHSZoneGroup
+ms.search.form: InventLocation, WHSLocation, WHSLocationBuild, WHSLocationProfile, WHSLocationType, WHSLocDirTable, WHSParameters, WHSWaveTemplateTable, WHSWorkPool, WHSWorkTemplateTable, WHSZone, WHSZoneGroup
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 11554
-ms.assetid: 0523980a-602f-45b4-aa0e-cb18b2c0ce58
-ms.region: Global
+ms.assetid: 9fcc74bb-9622-43f1-b7bf-c2b2c41997c6
+ms.search.region: Global
 ms.author: perlynne
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 4c5577383521a23391bb9ef842999c108f9a05bf
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: a66165e2fac48c63b0eba36cb700783faf3d3e97
 
 
 ---

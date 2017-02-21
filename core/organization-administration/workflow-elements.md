@@ -1,23 +1,24 @@
 ---
-title: Workflow elements | Microsoft Docs
+title: Workflow elements
 description: This article describes the various elements that make up a workflow.
 author: sericks007
 manager: AnnBe
-ms.date: 2016-02-29 15:15:39
+ms.date: 2016-02-29 15 - 15 - 39
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: sericks007
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 56441
-ms.assetid: 64087b54-4ece-4f87-b2a7-a9ca55060254
-ms.region: Global
+ms.assetid: 8a7f5b56-7468-471e-afe5-b9f72dd609ba
+ms.search.region: Global
 ms.author: tjvass
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 1904b4604206e758b99d45fadeb359bd3e6fb861
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 3117b435f0dcd0ca8a3ebf25c21b7a0a1ac721e8
 
 
 ---

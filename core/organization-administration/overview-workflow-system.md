@@ -1,23 +1,24 @@
 ---
-title: Workflow system overview | Microsoft Docs
+title: Workflow system overview
 description: This article describes the workflow system in Microsoft Dynamics 365 for Operations.
 author: sericks007
 manager: AnnBe
-ms.date: 2016-02-29 15:10:28
+ms.date: 2016-02-29 15 - 10 - 28
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 56381
-ms.assetid: 2cf54a5a-9c18-48db-acdb-b79b8850ae2a
-ms.region: Global
+ms.assetid: 5d1a52fe-ef8f-48e3-9a15-a90b81b4f0ef
+ms.search.region: Global
 ms.author: tjvass
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: c35a47625f588004027c027a86cdd58837ab2719
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 021c0d365cf051a2655c98510c235d689cbfe9e7
 
 
 ---

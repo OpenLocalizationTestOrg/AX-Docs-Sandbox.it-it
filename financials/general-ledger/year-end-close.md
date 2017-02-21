@@ -1,24 +1,25 @@
 ---
-title: Year-end close | Microsoft Docs
+title: Year-end close
 description: This topic describes the required setup and steps for running the general ledger year-end close process.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:07:06
+ms.date: 2015-12-02 23 - 07 - 06
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerClosingSheet
+ms.search.form: LedgerClosingSheet
 audience: Application User
-ms.reviewer: 2231
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14091
-ms.assetid: aaffa0b5-1a26-4e65-8cd3-a6230f63e018
-ms.region: Global
+ms.assetid: 1911046d-9078-4b58-bdc4-ff632db816b1
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: ca925b3c7088e02c234b31065f176332c56f93c9
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: ff9bfc183fe432d4e1c6615d88023aa7d48b2c71
 
 
 ---

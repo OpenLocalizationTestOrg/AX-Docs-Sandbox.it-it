@@ -1,25 +1,27 @@
 ---
-title: Resource capabilities | Microsoft Docs
+title: Resource capabilities
 description: This article provides information about resource capabilities. A capability is the ability of an operations resource to perform a particular activity. The article explains how capabilities and related concepts, such as proficiency level and priority, are used to select appropriate resources for an activity.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-01-22 12:28:10
+ms.date: 2016-01-22 12 - 28 - 10
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: WrkCtrCapability, WrkCtrTable
+ms.search.form: WrkCtrCapability, WrkCtrTable
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 29961
-ms.assetid: 5a7a88a5-4027-456d-8147-903d163b6aa9
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 93c33429-90df-4120-bdd7-0ce42a574b5b
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: sorenand
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f26e37518f5ff8be80dc9ec67610cb3b99a2e534
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: aeb3e76fffce64836a0b2a0828607bbffa778e60
 
 
 ---

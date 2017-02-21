@@ -1,24 +1,25 @@
 ---
-title: Purchase agreements | Microsoft Docs
+title: Purchase agreements
 description: This article provides information about purchase agreements. A purchase agreement is a contract that commits an organization to buy a specified quantity or amount by using multiple purchase orders over time. In exchange for this commitment, the buyer receives special prices and discounts.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-10-30 12:58:22
+ms.date: 2015-10-30 12 - 58 - 22
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AgreementClassification, AgreementLine, AgreementLinePrompt, PurchAgreement, PurchAgreementCreate, PurchAgreementGenerateReleaseOrder, PurchAgreementHistory, PurchAgreementInvoiceJournal
+ms.search.form: AgreementClassification, AgreementLine, AgreementLinePrompt, PurchAgreement, PurchAgreementCreate, PurchAgreementGenerateReleaseOrder, PurchAgreementHistory, PurchAgreementInvoiceJournal
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 11634
-ms.assetid: 173ffbcb-1bd7-4144-bc7b-f58df96fcef6
-ms.region: Global
+ms.assetid: 7316f8a4-2e95-4193-a2c1-ac2441baa714
+ms.search.region: Global
 ms.author: mkirknel
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: b4cba9bbcb692782bc8770d75868ebf8dfb0d80b
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 82e41d62c74c4651a61ef613098ad90c035d65ff
 
 
 ---

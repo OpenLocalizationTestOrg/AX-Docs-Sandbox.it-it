@@ -1,24 +1,25 @@
 ---
-title: Map different cost element dimension members to a common set of dimension members | Microsoft Docs
+title: Map different cost element dimension members to a common set of dimension members
 description: By mapping different cost element dimension members to a common set of cost element dimension members, you merge data into a common format for analysis purposes.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-11-01 13:45:07
+ms.date: 2016-11-01 13 - 45 - 07
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CAMDimension, CAMDimensionMember
+ms.search.form: CAMDimension, CAMDimensionMember
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 223234
-ms.assetid: f3bcb451-0784-419b-a52f-afa220d15168
-ms.region: global
+ms.assetid: 3b7825b0-b7b6-4743-a7ee-750ba64b2651
+ms.search.region: global
 ms.author: yuyus
+ms.dyn365.intro: Nov-16
+ms.dyn365.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 5576d273c8b5770ec6e461262fb5447fa7005134
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: aa03e31532658870c686454d2f788210ed68b8c1
 
 
 ---

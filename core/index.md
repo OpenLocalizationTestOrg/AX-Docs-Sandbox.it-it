@@ -1,87 +1,44 @@
 ---
-title: Core Documentation for Dynamics 365 for Operations Users | Microsoft Docs
-description: Learn how to navigate the Dynamics 365 for Operations UI, set up your organization, and use and request local features for your country or region.
+title: Welcome to Dynamics 365 for Operations
+description: Dynamics 365 for Operations is the complete Enterprise Resource Planning (ERP) solution for business.
 author: margoc
-manager: annbe
-ms.service: Dynamics365Operations
-ms.tgt_pltfrm: 
-ms.devlang: 
+manager: AnnBe
+ms.date: 2016-03-08 19:35:39
 ms.topic: article
-ms.date: 01/23/2017
+ms.prod: 
+ms.service: Dynamics365Operations
+ms.technology: 
 audience: Application User
-ms.reviewer: margoc
+ms.reviewer: 71
 ms.suite: Released- Dynamics AX 7.0.0
-ms.custom: 104173
-ms.assetid: 8121b7bd-56ce-43f5-be90-0bb64dba0eb4
+ms.custom: 62303
+ms.assetid: 3d7dfc2a-4be2-4fdc-ac35-cc96868f56ab
 ms.region: Global
 ms.author: margoc
 translationtype: Human Translation
-ms.sourcegitcommit: c7de9c1477226b254aee1fb5c52792639d001735
-ms.openlocfilehash: 8fdc8aed36f8208eb0eb00f65edb56cdcfadf98a
+ms.sourcegitcommit: 9ff6fc006c5e6a8019ab18aebfb0fe5ea7fdb3f3
+ms.openlocfilehash: 2b21f57c2d10c5ef69bafef4a6a98c4786fdf1cd
 
 
 ---
-# <a name="core-documentation-for-dynamics-365-for-operations-users"></a>Core Documentation for Dynamics 365 for Operations Users
+# <a name="welcome-to-dynamics-365-for-operations"></a>Welcome to Dynamics 365 for Operations
 
-Learn how to navigate the Dynamics 365 for Operations UI, set up your organization, and use and request local features for your country or region.
+Dynamics 365 for Operations is the complete Enterprise Resource Planning (ERP) solution for business. Use the documentation to learn how to make Dynamics 365 for Operations work for your business. 
 
-<ul class="panelContent cardsFTitle">
-    <li>
-        <a href="get-started/get-started-landing">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="media/i-comments.svg" alt="" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Getting started</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-    <li>
-        <a href="/dynamics365/operations/core/organization-administration/organization-administration-home-page">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="media/i-copycode.svg" alt="" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Organizational administration</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>    
-    <li>
-        <a href="localizations/country_region">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="media/i-download.svg" alt="" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Localizations</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>    
-</ul>
-
+Find content for:  
+Getting started and onboarding  
+Business intelligence and reporting  
+Developer functionality  
+Financial management  
+Human resources  
+Localizations (country or region-specific functionality)  
+Manufacturing  
+Organization administration  
+Project management and accounting  
+Retail  
+Supply chain management  
+System administration and Lifecycle Services  
+  
 
 
 

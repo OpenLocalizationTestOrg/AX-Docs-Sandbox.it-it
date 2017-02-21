@@ -1,23 +1,25 @@
 ---
-title: Convert accounting or reporting currencies | Microsoft Docs
+title: Convert accounting or reporting currencies
 description: 
 author: RobinARH
 manager: AnnBe
-ms.date: 2016-04-05 14:45:05
+ms.date: 2016-04-05 14 - 45 - 05
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: RobinARH
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 78223
-ms.assetid: a619d9e4-8f41-4452-a81c-f1f134215856
-ms.region: Global
+ms.assetid: 7497e7a4-c843-4aba-b330-82063ed64677
+ms.search.region: Global
 ms.author: aolson
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 210b7675e8c8b0a237068f7f55a11aaf9609b667
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 0bc322295bdea5de0013c5fb8336d5716850d767
 
 
 ---

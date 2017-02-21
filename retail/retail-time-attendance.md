@@ -1,24 +1,25 @@
 ---
-title: Retail time and attendance | Microsoft Docs
+title: Retail time and attendance
 description: This topic describes the scenarios that are supported for time and attendance management in Microsoft Dynamics 365 for Operations - Retail.
 author: MargoC
 manager: AnnBe
-ms.date: 2016-03-08 22:09:37
+ms.date: 2016-03-08 22 - 09 - 37
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 41
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 62813
-ms.assetid: 94e02fb1-07e1-468d-9255-c5b989a6891a
-ms.region: global
-ms.industry: Retail
+ms.assetid: a009d5bd-0f9d-48a0-8e38-2b1c59d43423
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: aamiral
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: db3dc577f03a5d281eba56cf6b6fd9be86c415a1
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: b52a37034bceb235cdd20be4ee30cf130021f2ab
 
 
 ---

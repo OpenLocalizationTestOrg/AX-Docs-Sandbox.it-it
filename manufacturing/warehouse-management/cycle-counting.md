@@ -1,24 +1,25 @@
 ---
-title: Cycle counting | Microsoft Docs
+title: Cycle counting
 description: This article describes how you can use cycle counting with the warehousing solution that is available in Warehouse management. This article doesn&quot;t apply to the warehousing solution that&quot;s available in Inventory management.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-18 11:46:20
+ms.date: 2016-02-18 11 - 46 - 20
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: WHSCycleCountPlan, WHSCycleCountPlanListPage, WHSCycleCountThreshold, WHSWorkTableListPage
+ms.search.form: WHSCycleCountPlan, WHSCycleCountPlanListPage, WHSCycleCountThreshold, WHSWorkTableListPage
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 50671
-ms.assetid: 0bb8428c-53d8-49fa-a3e1-86d6d2ba2fc4
-ms.region: Global
+ms.assetid: 8c1d4b41-938b-4e19-844b-a0779451dbc7
+ms.search.region: Global
 ms.author: mafoge
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 74013b193554af69be5b6c317c6a7e24a89cfca7
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: bbaa2b58acc88498afed7cf2d22c928ba225300d
 
 
 ---

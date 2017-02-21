@@ -1,23 +1,25 @@
 ---
-title: Set up fixed assets | Microsoft Docs
+title: Set up fixed assets
 description: This topic provides an overview of Fixed assets module setup.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 22:55:03
+ms.date: 2015-12-02 22 - 55 - 03
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13771
-ms.assetid: a2db91f5-72c8-4ef7-92c4-dd26942bed35
-ms.region: Global
+ms.assetid: fa41a11f-ad72-4320-99ab-470431d50a87
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 4abdd6d4ad67e515387ab8da837e43b54de0e95a
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 8e6e45e5f61a30e8f7cf1f94c6f9e4a6145112ce
 
 
 ---

@@ -1,23 +1,24 @@
 ---
-title: Sales and marketing | Microsoft Docs
+title: Sales and marketing
 description: You can use Sales and marketing to obtain, store, and use various types of data in the sales flow. This data includes the original sales initiative, future follow-up action, and additional sales.
 author: kfend
 manager: AnnBe
-ms.date: 2016-06-15 15:07:32
+ms.date: 2016-06-15 15 - 07 - 32
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 51
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 92303
-ms.assetid: 9b9911bf-7b0d-42a4-81a0-f712b9ce85ed
-ms.region: Global
+ms.assetid: a2918a93-d0cb-4be5-aa44-8803b15f72cb
+ms.search.region: Global
 ms.author: kfend
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 4f61bbd635f0fc26e133950ad0834393b115b792
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: bc6b4094050dacf1bca1959354302593a788679f
 
 
 ---

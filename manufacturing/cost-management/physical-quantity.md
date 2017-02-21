@@ -1,25 +1,27 @@
 ---
-title: Inventory object values | Microsoft Docs
+title: Inventory object values
 description: This article provides information about how the values of an inventory object are calculated.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-07 09:09:05
+ms.date: 2015-12-07 09 - 09 - 05
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventCostOnhandItem
+ms.search.form: InventCostOnhandItem
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 19111
-ms.assetid: da429efb-9940-4549-ae61-db34ec865990
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 6f155fd6-8535-4017-ae9c-2ab412e22ebc
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: deb9654e2a192ab1511de6350d921c4928fa7c4a
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: af6e1136faa4221dd542c798715f947268f48641
 
 
 ---
@@ -28,7 +30,7 @@ ms.openlocfilehash: deb9654e2a192ab1511de6350d921c4928fa7c4a
 
 This article provides information about how the values of an inventory object are calculated. 
 
-A new functionality that is named **physical quantity **lets you see the values of a specific inventory object. A cost object represents the entity level where inventory accounting is performed. For more information about cost objects, see [Cost objects](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/cost-management/cost-object). To see the values of a specific inventory object, click **Physical quantity** on the **Cost object** page. Here is how the value of an inventory object is calculated: Inventory object.Value = Cost object.Average unit cost × Inventory object.Quantity The following example shows how the values of an inventory object and a cost object are calculated. Two product receipt events are registered on item A:
+A new functionality that is named **physical quantity **lets you see the values of a specific inventory object. A cost object represents the entity level where inventory accounting is performed. For more information about cost objects, see [Cost objects](cost-object.md). To see the values of a specific inventory object, click **Physical quantity** on the **Cost object** page. Here is how the value of an inventory object is calculated: Inventory object.Value = Cost object.Average unit cost × Inventory object.Quantity The following example shows how the values of an inventory object and a cost object are calculated. Two product receipt events are registered on item A:
 
 -   Product receipt 1: Quantity = 100 pcs., Amount = $1,000.00, Site = 1, Warehouse =11, Batch No. = B1
 -   Product receipt 2: Quantity = 50 pcs., Amount = $800.00, Site = 1, Warehouse =11, Batch No. = B2
@@ -127,11 +129,11 @@ The following table shows the calculation result for an inventory object. You ca
 <a name="see-also"></a>See also
 --------
 
-[Cost objects](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/cost-management/cost-object)
+[Cost objects](cost-object.md)
 
-[Cost entries](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/cost-management/cost-entries)
+[Cost entries](cost-entries.md)
 
-[What's new and changed in Microsoft Dynamics AX](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/whats-new-or-changed-in-dynamics-ax-7)
+[What's new and changed in Microsoft Dynamics AX](whats-new-changed.md)
 
 
 

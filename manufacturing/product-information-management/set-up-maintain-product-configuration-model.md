@@ -1,25 +1,27 @@
 ---
-title: Set up a product configuration model | Microsoft Docs
+title: Set up a product configuration model
 description: This article describes the steps for setting up and creating a product configuration model.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-09-11 14:38:59
+ms.date: 2015-09-11 14 - 38 - 59
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: PCProductConfigurationModelListPage
+ms.search.form: PCProductConfigurationModelListPage
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 4051
-ms.assetid: 9f64f3cf-9363-46a1-9290-e64ebca61338
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: a58d3ef5-65c5-4b7c-9e19-ca7ce1e83e38
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 1902d30b17a3fe2ba48567dca0585077a9275257
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 5d0259962a92521831df217d25aa4ce28f52c66f
 
 
 ---

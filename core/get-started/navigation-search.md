@@ -1,23 +1,24 @@
 ---
-title: Navigation search | Microsoft Docs
+title: Navigation search
 description: This article explains how to use the search functionality to navigate to pages in Microsoft Dynamics 365 for Operations.
 author: aneesmsft
 manager: AnnBe
-ms.date: 2015-12-12 23:29:16
+ms.date: 2015-12-12 23 - 29 - 16
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, Developer, IT Pro
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 25991
-ms.assetid: 3c766819-2859-4775-b7b9-d4535ace1770
-ms.region: Global
+ms.assetid: 6e6154e3-d4fa-43f5-ad38-40dc6a731b67
+ms.search.region: Global
 ms.author: aneesa
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 4c5c13feb926c5846dde53f4a219f3d13d628562
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 1f55d002f45463bdb253d3e0217574cfbceef016
 
 
 ---

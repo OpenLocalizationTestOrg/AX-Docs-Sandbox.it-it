@@ -1,24 +1,25 @@
 ---
-title: Transportation management home page | Microsoft Docs
+title: Transportation management home page
 description: This topic gives a list of the help topics and other resources that are available for Transportation management.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-18 12:35:45
+ms.date: 2016-02-18 12 - 35 - 45
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 121
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 50691
-ms.assetid: 2c5b7bad-d35b-4b4c-bdb6-1945ce01243a
-ms.region: Global
-ms.industry: Distribution
+ms.assetid: 908d45b5-71f3-4411-997d-8786072947b6
+ms.search.region: Global
+ms.search.industry: Distribution
 ms.author: yuyus
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 792b2b204531afa4209f253ef00a0a596f0050e7
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 856a86e85546da0b1d3a12a272ecfd0443d36d34
 
 
 ---
@@ -30,15 +31,15 @@ This topic gives a list of the help topics and other resources that are availabl
 Transportation management in Microsoft Dynamics 365 for Operations lets you use manage your company’s transportation, and identify vendor and routing solutions for inbound and outbound orders. For example, you can identify the fastest route or the least expensive rate for a shipment. The resources available for Transportation management include:
 
 -   [Transportation management overview](http://ax.help.dynamics.com/en/wiki/transportation-management-overview/)
--   [Transport management engines](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/warehouse-management/transportation-management-engines)
--   [Create a new transportation management engine](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/create-a-new-transportation-management-engine)
+-   [Transport management engines](transportation-management-engines.md)
+-   [Create a new transportation management engine](create-new-transportation-management-engine.md)
 -   [Transportation Management System Implementation Guide](http://blogs.msdn.com/b/dynamicsaxscm/archive/2014/11/21/transportation-management-system-implementation-guide.aspx) (previous version of Dynamics)
 -   [Set up shipping carriers](http://ax.help.dynamics.com/en/wiki/set-up-shipping-carriers/)
--   [Planning freight transportation routes with multiple stops](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/transportation-management/planning-freight-transportation-routes-with-multiple-stops)
--   [Create a bill of lading](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/transportation-management/create-a-bill-of-lading)
+-   [Planning freight transportation routes with multiple stops](plan-freight-transportation-routes-multiple-stops.md)
+-   [Create a bill of lading](create-bill-of-lading.md)
 -   [Set up transportation constraints for an item](http://ax.help.dynamics.com/en/wiki/set-up-transportation-constraints-for-an-item/)
 -   [Set up a transportation tender](http://ax.help.dynamics.com/en/wiki/set-up-a-transportation-tender/)
--   [Reconcile freight in transportation management](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/transportation-management/reconcile-freight-in-transportation-management)
+-   [Reconcile freight in transportation management](reconcile-freight-transportation-management.md)
 -   [Set up automatic freight reconciliation](http://ax.help.dynamics.com/en/wiki/set-up-automatic-freight-reconciliation/)
 -   [Reconcile freight manually](http://ax.help.dynamics.com/en/wiki/reconcile-freight-manually/)
 -   [Create a rate master](http://ax.help.dynamics.com/en/wiki/create-a-rate-master/)
@@ -46,7 +47,7 @@ Transportation management in Microsoft Dynamics 365 for Operations lets you use 
 -   [Set up a carrier fuel index](http://ax.help.dynamics.com/en/wiki/set-up-a-carrier-fuel-index/)
 -   [Associate a fuel index with a carrier as an accessorial charge](http://ax.help.dynamics.com/en/wiki/associate-a-fuel-index-with-a-carrier-as-an-accessorial-charge/)
 -   [Set up hub accessorial charges and accessorial masters](http://ax.help.dynamics.com/en/wiki/set-up-hub-accessorial-charges-and-accessorial-masters/)
--   [Plan loads using hub consolidation](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/transportation-management/plan-loads-using-hub-consolidation)
+-   [Plan loads using hub consolidation](plan-loads-hub-consolidation.md)
 -   [Use the Load Planning Workbench to plan loads and shipments](http://ax.help.dynamics.com/en/wiki/use-the-load-planning-workbench-to-plan-loads/)
 -   [Set up an appointment for a load](http://ax.help.dynamics.com/en/wiki/set-up-an-appointment-for-a-load/)
 -   [Register driver check-in and check-out for an appointment](http://ax.help.dynamics.com/en/wiki/register-driver-check-in-and-check-out-for-an-appointment/)

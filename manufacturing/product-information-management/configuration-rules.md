@@ -1,24 +1,26 @@
 ---
-title: Configuration rules | Microsoft Docs
+title: Configuration rules
 description: This article provides general information about configuration rules. Configuration rules define relationships between items in a bill of materials (BOM) for products that use the dimension-based configuration technology.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-07 17:51:44
+ms.date: 2015-12-07 17 - 51 - 44
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BOMConfigRule
+ms.search.form: BOMConfigRule
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 19761
-ms.assetid: bbd27eb0-db79-4a79-b501-c0d26cca08d3
-ms.region: Global
+ms.assetid: d8ce67b0-53b9-4ac1-9870-8f64d554d6c3
+ms.search.region: Global
 ms.author: yuyus
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: d6de8a5e8970668ad3c9d761454469c9db2cc574
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 266935784e91726e4fb0242d6f7ee701e4bbdf61
 
 
 ---

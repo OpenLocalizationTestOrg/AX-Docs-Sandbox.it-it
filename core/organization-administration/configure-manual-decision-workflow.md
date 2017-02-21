@@ -1,23 +1,24 @@
 ---
-title: Configure a manual decision in a workflow | Microsoft Docs
+title: Configure a manual decision in a workflow
 description: This topic explains how to configure the properties of a manual decision.
 author: sericks007
 manager: AnnBe
-ms.date: 2016-09-16 19:48:55
+ms.date: 2016-09-16 19 - 48 - 55
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 192101
-ms.assetid: fe580564-7f74-4351-9ef9-874cbf674fef
-ms.region: Global
+ms.assetid: 7a0fdce1-7b3e-433a-bf7c-ddb322efd1eb
+ms.search.region: Global
 ms.author: donaldc
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6128480ebedf1079df21dff68e33e4957010a785
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: b59efd5c8af1fab64bc7539978f069b8b09a5266
 
 
 ---

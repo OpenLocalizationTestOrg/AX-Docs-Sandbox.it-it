@@ -1,25 +1,27 @@
 ---
-title: Consolidated batch orders | Microsoft Docs
+title: Consolidated batch orders
 description: This article describes the concept of consolidated batch orders.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-07 09:17:20
+ms.date: 2015-12-07 09 - 17 - 20
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: PmfAddToConsOrder, PmfBulkItemConv, PmfBulkPackOnHand, PmfConsOrderListPage
+ms.search.form: PmfAddToConsOrder, PmfBulkItemConv, PmfBulkPackOnHand, PmfConsOrderListPage
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 19291
-ms.assetid: 8cd9ca77-6b50-4540-b8ee-353c4bae426e
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 1c1f059f-c1b3-47f3-b696-9472c20df8ad
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: b98d3983a8dbdceea152fbe613ba8d82df1d2e31
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 621d84f1a6eac821febbf63b2109418f694e3e56
 
 
 ---

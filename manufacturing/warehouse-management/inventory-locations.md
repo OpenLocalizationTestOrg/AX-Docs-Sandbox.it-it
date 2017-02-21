@@ -1,25 +1,26 @@
 ---
-title: Inventory locations | Microsoft Docs
+title: Inventory locations
 description: Inventory locations are used with basic warehousing (WMS I) to determine where items are stored and where items are picked from in a WMS I warehouse.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-09-10 08:08:37
+ms.date: 2015-09-10 08 - 08 - 37
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: WMSLocation
+ms.search.form: WMSLocation
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 2134
-ms.assetid: ac338e30-e350-46ba-80b9-7464082f61f9
-ms.region: Global
-ms.industry: Distribution
+ms.assetid: a007d9e6-2774-4c47-9ded-97d766c5360a
+ms.search.region: Global
+ms.search.industry: Distribution
 ms.author: perlynne
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: aa9ce2980ae8939131fa152658dd59c4e8610816
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 870378a215ddbd0a5ca9d71809fc6f97f299899d
 
 
 ---

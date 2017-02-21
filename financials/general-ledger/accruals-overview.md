@@ -1,24 +1,26 @@
 ---
-title: Accruals overview | Microsoft Docs
+title: Accruals overview
 description: This article describes accruals, and provides information about how to set them up and create transactions.
 author: RobinARH
 manager: AnnBe
-ms.date: 2015-12-02 23:07:47
+ms.date: 2015-12-02 23 - 07 - 47
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerAccuralTable
+ms.search.form: LedgerAccuralTable
 audience: Application User
 ms.reviewer: RobinARH
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14131
-ms.assetid: 5d402d68-b548-4e00-bfaf-0b837ab4815f
-ms.region: Global
+ms.assetid: d63ed7ba-356b-4920-b40b-a17175499f7c
+ms.search.region: Global
 ms.author: aolson
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: ba2ffe021a35083dab852bac96994fe167b8f8d5
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 2639365ca6dd66eedd70c3c94919ab7315e02dad
 
 
 ---

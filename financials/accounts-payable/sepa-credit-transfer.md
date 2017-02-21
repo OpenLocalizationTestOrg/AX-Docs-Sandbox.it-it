@@ -1,24 +1,26 @@
 ---
-title: SEPA credit transfer overview | Microsoft Docs
+title: SEPA credit transfer overview
 description: This article provides general information about Single Euro Payments Area (SEPA) credit transfers, which are one of the three types of SEPA payments. A SEPA credit transfer is a payment (in euros) from one company or individual to another company or individual. The article also describes how to set up and transmit a SEPA credit transfer payment file.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-10-28 21:37:11
+ms.date: 2015-10-28 21 - 37 - 11
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerJournalTransVendInvoice, LedgerJournalTransVendPaym, VendPaymMode
+ms.search.form: LedgerJournalTransVendInvoice, LedgerJournalTransVendPaym, VendPaymMode
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 11124
-ms.assetid: 694a181c-b8db-47ef-979c-0fb9d66ee8c1
-ms.region: Global
+ms.assetid: 7e3d981f-7e47-4e3d-b03a-d4c81d89d853
+ms.search.region: Global
 ms.author: mrolecki
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: dd2a23f65422e8a17ae390459e6a9fb552223dbe
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 0b237d651272feb6ee6ca9e83743fd26e938a040
 
 
 ---

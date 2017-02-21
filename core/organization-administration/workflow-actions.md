@@ -1,23 +1,24 @@
 ---
-title: Workflow actions | Microsoft Docs
+title: Workflow actions
 description: This article explains the actions that each participant in a workflow approval process can take.
 author: sericks007
 manager: AnnBe
-ms.date: 2016-02-29 15:15:11
+ms.date: 2016-02-29 15 - 15 - 11
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: sericks007
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 56411
-ms.assetid: bfb6b19e-b30c-44f9-8893-fc3150c2bd4e
-ms.region: Global
+ms.assetid: f082c9b6-bf79-4e9b-8a91-76d2381ea79b
+ms.search.region: Global
 ms.author: tjvass
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: d739874dd81cf0ac521613a41ca81ad27a6470dc
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 5027a868d02ee9d6731d8c967c70419f94dece3d
 
 
 ---

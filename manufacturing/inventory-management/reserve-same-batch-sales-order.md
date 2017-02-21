@@ -1,25 +1,27 @@
 ---
-title: Reserve the same batch for a sales order | Microsoft Docs
+title: Reserve the same batch for a sales order
 description: This article explains how to set up a product to allow reservation of inventory against a single batch of inventory.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-01-07 16:23:17
+ms.date: 2016-01-07 16 - 23 - 17
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: EcoResProductDetailsExtended, EcoResStorageDimensionGroup, EcoResTrackingDimensionGroup, InventBatch, InventModelGroup, PdsAskSameLotForm, PdsCustSellableDays
+ms.search.form: EcoResProductDetailsExtended, EcoResStorageDimensionGroup, EcoResTrackingDimensionGroup, InventBatch, InventModelGroup, PdsAskSameLotForm, PdsCustSellableDays
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 28911
-ms.assetid: 82883149-1125-4de4-b9f4-2b2b9b02e766
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: da0ca8fc-90ce-487c-8ea1-010e7db1533f
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 4c16277112c39ff3a6ae2a235f603a6ebc9f5be8
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: b659e10014db242a9ad9610bc90fd0d6c0fcbeb9
 
 
 ---

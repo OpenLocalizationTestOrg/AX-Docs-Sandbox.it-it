@@ -1,31 +1,31 @@
 ---
-title: "Advanced bank reconciliation MT940 Import – Composite data entity upgrade | Microsoft Docs"
+title: "Advanced bank reconciliation MT940 Import – Composite data entity upgrade"
 description: A sequence number needs to be added to the bank statement import entity to support the MT940 format.
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-10-31 16:22:02
+ms.date: 2016-10-31 16 - 22 - 02
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 221594
-ms.assetid: 3480d617-15c9-4afb-bf22-28043b41fbb8
-ms.region: Global
+ms.assetid: 54e91d42-5dea-4ff0-9022-ccef185fe762
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.intro: Nov-16
+ms.dyn365.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: b3ada9af865bdfdbeae954a58a5762ab29d84acf
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 93a05975009ab91c19c9a6955bd98c8bfe599af7
 
 
 ---
 
 # <a name="advanced-bank-reconciliation-mt940-import--composite-data-entity-upgrade"></a>Advanced bank reconciliation MT940 Import – Composite data entity upgrade
 
-A sequence number needs to be added to the bank statement import entity to support the MT940 format.
-
+A sequence number needs to be added to the bank statement import entity to support the MT940 format. 
 
 Use the following steps to add the bank statement import entity to support the MT940 format.
 

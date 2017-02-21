@@ -1,32 +1,33 @@
 ---
-title: Design a questionnaire | Microsoft Docs
+title: Design a questionnaire
 description: This article describes the process for creating a questionnaire. The first step is to design the questionnaire. When you design a questionnaire, you not only write the questions and answers, but also create the structure that enables answers to be recorded and tabulated.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-04 18:16:06
+ms.date: 2015-12-04 18 - 16 - 06
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: KCMCollectionType, KMAnswerCollection, KMCollection
+ms.search.form: KCMCollectionType, KMAnswerCollection, KMCollection
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 17341
-ms.assetid: d4466c8d-8406-4b45-a58a-0e83b536f3e7
-ms.region: Global
+ms.assetid: e36a54c8-64ed-4226-bea1-7490ef7651c6
+ms.search.region: Global
 ms.author: twheeloc
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 659a2ae667939a45e10ce51c8f99bd23611aaf4f
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 8f68549fbb9aa7c33e7d1e1b6716216d3a7d0369
 
 
 ---
 
 # <a name="design-a-questionnaire"></a>Design a questionnaire
 
-This article describes the process for creating a questionnaire. The first step is to design the questionnaire. When you design a questionnaire, you not only write the questions and answers, but also create the structure that enables answers to be recorded and tabulated.
-
+This article describes the process for creating a questionnaire. The first step is to design the questionnaire. When you design a questionnaire, you not only write the questions and answers, but also create the structure that enables answers to be recorded and tabulated. 
 
 A carefully designed questionnaire can help increase the quality of the data that you collect. Through careful design, you can better select the appropriate options at the appropriate time for a questionnaire. The following points can help you plan an effective questionnaire:
 
@@ -188,11 +189,11 @@ A legal entity offers both items and services to its customers. As typically occ
 <a name="see-also"></a>See also
 --------
 
-[Using questionnaires](https://docs.microsoft.com/en-us/dynamics365/operations/human-resources/questionnaire/using-questionnaires)
+[Using questionnaires](questionnaires.md)
 
-[Distributing and completing questionnaires](https://docs.microsoft.com/en-us/dynamics365/operations/human-resources/questionnaire/distributing-questionnaires)
+[Distributing and completing questionnaires](distribute-questionnaires.md)
 
-[Viewing and evaluating the results of questionnaires](https://docs.microsoft.com/en-us/dynamics365/operations/human-resources/questionnaire/viewing-and-evaluating-results-of-a-questionnaire)
+[Viewing and evaluating the results of questionnaires](evaluate-questionnaire-results.md)
 
 
 

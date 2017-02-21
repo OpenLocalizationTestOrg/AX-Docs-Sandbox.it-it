@@ -1,23 +1,25 @@
 ---
-title: Ledger journal types | Microsoft Docs
+title: Ledger journal types
 description: This article describes the journal types that you can set up for financial journals. Use the Journal names page to set up journals that you can use throughout Microsoft Dynamics AX.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-03 20:27:42
+ms.date: 2015-12-03 20 - 27 - 42
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 15631
-ms.assetid: da2b59d6-b275-4a05-87bd-adaccd78d3cf
-ms.region: Global
+ms.assetid: 42b2ec5e-6c9e-4809-a063-5659928b9eef
+ms.search.region: Global
 ms.author: peakerbl
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: ec590d19b6ce210a3fb04503492a8cba00d37182
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 034afa8553185a24371d2900aa52812b78087299
 
 
 ---

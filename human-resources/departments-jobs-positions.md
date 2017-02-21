@@ -1,24 +1,26 @@
 ---
-title: Organize your workforce using departments, jobs, and positions | Microsoft Docs
+title: Organize your workforce using departments, jobs, and positions
 description: Departments, jobs, and positions are organizational elements that are maintained within Human resources. This topic describes conceptual information about these elements.
 author: rschloma
 manager: AnnBe
-ms.date: 2016-05-20 15:44:04
+ms.date: 2016-05-20 15 - 44 - 04
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: HcmJob, HcmPosition, OMOperatingUnit
+ms.search.form: HcmJob, HcmPosition, OMOperatingUnit
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 87933
-ms.assetid: 225a1e98-52a6-4f9d-8928-96af1c0b878f
-ms.region: Global
+ms.assetid: 965e0cd9-b6cd-4eed-9cbd-ee11b076e3c9
+ms.search.region: Global
 ms.author: dkrame
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 5bdce16b46a583d193c7c0c7cf620fa436c1491a
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 1cf631870e482f2881bab27255012685cd2ccc1d
 
 
 ---

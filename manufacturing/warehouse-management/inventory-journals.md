@@ -1,24 +1,25 @@
 ---
-title: Inventory journals | Microsoft Docs
+title: Inventory journals
 description: This article describes how you can use inventory journals to post various types of physical inventory transactions.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-23 23:15:03
+ms.date: 2016-02-23 23 - 15 - 03
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventJournalBOM, InventJournalCount, InventJournalCountTag, InventJournalLossProfit, InventJournalMovement, InventJournalTransfer, WMSJournalTable
+ms.search.form: InventJournalBOM, InventJournalCount, InventJournalCountTag, InventJournalLossProfit, InventJournalMovement, InventJournalTransfer, WMSJournalTable
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 51631
-ms.assetid: d888ef0a-9a86-40c2-a4be-da7a8ce25ac8
-ms.region: Global
+ms.assetid: 25337b8e-c4a5-4e7c-8e51-0e8e540f9274
+ms.search.region: Global
 ms.author: mafoge
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6c132fe1050e88b8bbba422b11c1081681bc2a72
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 749a765e9cea8b3da2d8fa38259fd6d921b23ecf
 
 
 ---
@@ -80,7 +81,7 @@ Tag counting journals are used to assign a numbered tag to a count lot. The tag 
 -   **Voided** – The item number is voided for this tag.
 -   **Missing** – The item number is missing for this tag.
 
-When you post a tag counting journal, a new counting journal is created, based on the tag counting journal lines. For more information about tag counting, see [Inventory tag counting](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/warehouse-management/inventory-tag-counting).
+When you post a tag counting journal, a new counting journal is created, based on the tag counting journal lines. For more information about tag counting, see [Inventory tag counting](inventory-tag-counting.md).
 
 ## <a name="working-with-journals"></a>Working with journals
 A journal can be accessed by only one user at a time. If several users must access journals at the same time to create journal lines, those users must select journals that aren't currently being used, to prevent information from being overwritten. In situations where multiple departments use the same journal type, it's helpful to create multiple journal names (for example, one per department). It can also be helpful to divide journals so that each posting routine is entered in its own unique inventory journal. For posting routines that are associated with inventory transactions, create one journal for periodic inventory adjustments and another for inventory counting.

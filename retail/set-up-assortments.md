@@ -1,24 +1,25 @@
 ---
-title: Set up assortments | Microsoft Docs
+title: Set up assortments
 description: This article describes what an assortment is and explains how to set up assortments in Microsoft Dynamics 365 for Operations - Retail.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-03 20:52:27
+ms.date: 2015-12-03 20 - 52 - 27
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 41
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 15811
-ms.assetid: 73503e09-67a2-417e-bbb5-d4652c04e3a9
-ms.region: global
-ms.industry: Retail
+ms.assetid: cbf815d1-2856-4590-b121-81e081b0c93d
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: jeffbl
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 53b2423e8b1f92fe4361cfb203d560a5e0e60676
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 39ff19cdf15a68f0409e4cee1b5a7a198dcb2d1f
 
 
 ---

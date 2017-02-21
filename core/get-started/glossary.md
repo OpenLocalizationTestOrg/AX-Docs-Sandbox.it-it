@@ -1,23 +1,25 @@
 ---
-title: Dynamics 365 for Operations glossary | Microsoft Docs
+title: Dynamics 365 for Operations glossary
 description: The Microsoft Dynamics 365 for Operations glossary defines key terms and concepts in the Dynamics 365 for Operations product.
 author: tonyafehr
 manager: AnnBe
-ms.date: 2016-02-11 23:33:37
+ms.date: 2016-02-11 23 - 33 - 37
 ms.topic: 
 ms.prod: 
 ms.service: 
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 44101
-ms.assetid: 4d6eb239-c5c5-4102-a311-84ffbf322514
-ms.region: Global
+ms.assetid: bc27c855-e623-4a8c-91ab-cf8dc0e6d3f6
+ms.search.region: Global
 ms.author: tfehr
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f5fc1f74df856196dff6320e7c387ec419bd5f8f
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 98ce7e625fc0eea8d47085cc70e62f533cc99d6f
 
 
 ---

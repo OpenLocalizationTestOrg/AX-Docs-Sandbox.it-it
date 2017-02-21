@@ -1,24 +1,25 @@
 ---
-title: Order holds | Microsoft Docs
+title: Order holds
 description: This topic describes holds on orders using Retail and commerce in Dynamics AX.
 author: josaw1
 manager: AnnBe
-ms.date: 2016-04-07 19:46:08
+ms.date: 2016-04-07 19 - 46 - 08
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 2041
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 79132
-ms.assetid: f6077bc0-a0b5-46b8-b954-efea8a3f2d34
-ms.region: global
-ms.industry: Retail
+ms.assetid: 15f04a69-f7ee-4820-bade-f3b11d7a90e4
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: josaw
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 5d23eda83d38f7ece14ea6f3f946f966aa41e864
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: c1d2b2a96ef852e6f08ccc052411236a6cd82595
 
 
 ---

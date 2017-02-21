@@ -1,24 +1,26 @@
 ---
-title: Foreign currency revaluation for Accounts payable and Accounts receivable | Microsoft Docs
+title: Foreign currency revaluation for Accounts payable and Accounts receivable
 description: Fluctuations in exchange rates cause the theoretical value (book value) of open transactions in foreign currencies to vary over time. This article provides information about the foreign currency revaluation process that you run to update the value of open transactions in Accounts payable and Accounts receivable.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:15:07
+ms.date: 2015-12-02 23 - 15 - 07
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustExchRateAdjustment, VendExchRateAdjustment
+ms.search.form: CustExchRateAdjustment, VendExchRateAdjustment
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14211
-ms.assetid: 9b53dacb-84df-4fa0-a162-a8b263554d10
-ms.region: Global
+ms.assetid: 34b3a7ff-b1e4-45d4-98ff-255138ae4df1
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6791101fc3c4a67ee65221322bc9a53426bd754d
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: e541029efae2908ff5d3d9db62717d1af1b89d9b
 
 
 ---

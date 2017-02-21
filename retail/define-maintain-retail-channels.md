@@ -1,25 +1,26 @@
 ---
-title: Define and maintain retail channels | Microsoft Docs
+title: Define and maintain retail channels
 description: This article provides an overview of the process for setting up brick-and-mortar stores, which are referred to as retail stores in Microsoft Dynamics 365 for Operations. It includes information about the tasks that you must complete both before and after you set up a retail store.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-04 02:16:32
+ms.date: 2015-12-04 02 - 16 - 32
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: RetailStoreTable, RetailStoreTableListPagePreviewPane
+ms.search.form: RetailStoreTable, RetailStoreTableListPagePreviewPane
 audience: Application User
-ms.reviewer: josaw1
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 16481
-ms.assetid: 25afa45d-d784-4ef1-98f1-8a470ca9ae50
-ms.region: Global
-ms.industry: Retail
+ms.assetid: 017be861-4443-4311-acc6-60614e65754a
+ms.search.region: Global
+ms.search.industry: Retail
 ms.author: mumani
+ms.dyn365.ops.intro: Feb-16
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 41eb325231490ef3e2e54e886be35fe8be6c058c
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 27d9a4f1041df03931f0fdca2d1444e2baf41a03
 
 
 ---
